@@ -1,0 +1,47 @@
+ION-EXCHANGE MEMBRANE MANUFACTURING PROCESS
+============================================
+
+┌─────────────────────┐     ┌──────────────────────────┐     ┌─────────────────────────┐
+│ 1. Pulverizing      │     │ 6. Mix with PVC/CPVC     │     │ 7. Apply onto           │
+│ Ion Exchange Resin  │     │ dissolved in solvent,    │     │ Ion Exchange Membrane   │
+│ (small spherical,   │     │ optionally add any       │     │ Mix onto other          │
+│ insoluble porous    │     │ fillers or additional    │     │ surface                 │
+│ microbeads)         │     │ solvent                  │     │                         │
+└────────┬────────────┘     └──────────────────────────┘     └─────────────────────────┘
+         │
+    Dry Powder
+         │
+    ── Feed beads ──
+         │
+┌────────┴────────────┐
+│ 2. Blending,        │
+│    Dry or Wet       │
+└────────┬────────────┘
+         │
+    Feed beads
+         │
+┌────────┴────────────┐
+│ 3. Ball Milling,    │     ┌──────────────────┐     ┌──────────────────────────┐
+│    Dry or Wet       │     │ 4. Spray Dryer   │     │ 5. Settle, Decant,       │
+│    (wet slurry)     ├────►│                  │     │    Air Dry, Blend        │
+└────────┬────────────┘     └────────┬─────────┘     └────────────┬─────────────┘
+         │                           │                             │
+         │                      Slurry                         Slurry
+         │                           │                             │
+    ┌────┴─────────┐                 │                             │
+    │ 3. Collected  │                │                             │
+    │ Slurry Sieved │                │                             │
+    └──────────────┘                 │                             │
+                                     └─────────────────────────────┘
+
+FLOW SUMMARY:
+  Step 1: Pulverize ion exchange resin into dry powder
+  Step 2: Blend (dry or wet) — feed beads
+  Step 3: Ball mill (dry or wet) to produce slurry
+  Step 4: Spray dry the slurry (parallel path)
+  Step 5: Settle, decant, air dry, blend (parallel path)
+  Step 6: Mix with PVC/CPVC dissolved in solvent
+  Step 7: Apply membrane mix onto target surface
+
+NOTE: OCR-extracted from Ion-Exchange-Membrane-Diagram.pdf. 
+Some labels may have minor errors (e.g., "8all" → "Ball", "Setlle" → "Settle", "sturry" → "slurry").

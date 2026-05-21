@@ -1,0 +1,450 @@
+SEM TECH
+SALT ELECTRO MINING
+     Rowow LLC
+                                 Rowow LLC
+                                  2/11/2026
+
+
+
+
+             What is
+           SEMTECH?
+SEM TECH is an open-source Salt Electro Mining Technology that uses
+saltwater and electricity to extract precious metals, rare earth elements, and
+critical minerals. In our continuous mining unit, we use hydrochloric acid
+(HCl) and sodium chlorate as the leaching solution—both derived from
+saltwater and electricity.
+
+The solution has a strong oxidizing redox potential (ORP) of over 1.5 V at pH
+0. Under these chlorine-rich conditions, it can dissolve noble metals such as
+rhodium, platinum, and gold, among others. Metals like silver, tin, and
+selenium are also oxidized and dissolved.
+
+Because of our closed-loop architecture, we can achieve recovery yields of
+up to 99% at costs as low as $50 per ton. The system has a small
+footprint—comparable to (or smaller than) a vacuum ﬁltration unit of similar
+capacity. You can feed in toxic, heavy-metal-bearing rock and produce
+concentrated powder along with clean silt that is safe for agricultural use.
+The process generates zero environmental pollution. With SEM TECH, we
+turn waste into a proﬁtable commodity.
+                                  Rowow LLC
+                                   2/11/2026
+
+ Based on the updated 2025 list of 60 critical minerals, SEM TECH is capable
+  of extracting all but 4 minerals. 53 of those elements can be extracted and
+    concentrated by the CMU in a single leaching solution. The remaining 3
+elements can be extracted by SEM TECH utilizing the same components, only
+   requiring a slight modiﬁcation to which leaching solution is being utilized.
+  CMU is not designed to directly extract Barite, Fluorspar, Metallurgical Coal,
+         and Graphite because these are primarily recovered as native
+mineral/compound resources rather than as extractable dissolved elemental
+   species. Synthetic pure Fluorspar (CaF₂) may be created from elements
+                             extracted by SEM TECH.
+
+Beyond those four, CMU is capable of extracting the remaining critical minerals
+                              listed in the following.
+   (Aluminum, Antimony, Arsenic, Beryllium, Bismuth, Boron, Cerium, Cesium,
+    Chromium, Cobalt, Copper, Dysprosium, Erbium, Europium, Gadolinium,
+  Gallium, Germanium, Hafnium, Holmium, Indium, Iridium, Lanthanum, Lead,
+    Lithium, Lutetium, Magnesium, Manganese, Neodymium, Nickel, Niobium,
+  Palladium, Phosphate, Platinum, Potash, Praseodymium, Rhenium, Rhodium,
+Rubidium, Ruthenium, Samarium, Scandium, Silver, Tantalum, Tellurium, Terbium,
+      Thulium, Tin, Uranium, Vanadium, Ytterbium, Yttrium, Zinc, Zirconium)
+
+ Can be all extracted and concentrated by the CEU in one leaching solution.
+  Silicon, Titanium, Tungsten, would require different solvents and solutions
+ (Hydroﬂuoric acid, or alkaline leaching conditions) to be extracted by SEM
+      TECH as the CMU utilizes chlorine based acids to digest elements.
+Rowow LLC
+
+
+
+
+            SPOTLIGHT
+
+
+
+            CMU
+            Continuous Mining Unit
+
+
+                    In the CMU (Continuous Mining Unit), the process
+            operates as follows: First, the acidic leaching solution is
+            regenerated at the anode. It then ﬂows into a leaching
+            tank—or into a slurry system paired with a continuous
+            vacuum ﬁltration drum—where it leaches the ore. The solids
+            are separated from the liquid, and the resulting metal rich
+            leachate is pumped to the cathode side. There, the
+            dissolved metals are reduced and plated out as a powder.
+            This powder settles and is collected at the bottom of a cone
+            tank. The now-depleted solution then returns to the anode,
+            where it is regenerated again via the cation exchange
+            membrane, completing and repeating the cycle.
+                    While multiple leaching conﬁgurations are possible, a
+            continuous vacuum ﬁltration drum is preferred for efﬁcient
+            solid–liquid separation. These drums typically include a
+            secondary spray-wash section to rinse the material and
+            neutralize trace amounts of chlorine.
+Rowow LLC
+
+
+
+
+            SPOTLIGHT
+
+
+
+            CRU
+            Continuous Reﬁning Unit
+
+
+
+
+            In addition to the CMU (Continuous Mining Unit), the CRU
+            (Continuous Reﬁning Unit) operates on the same
+            underlying principle but uses different solutions to
+            selectively separate and reﬁne metals. Speciﬁc acids can
+            be chosen to remove base metals from the powder
+            produced by the CMU—or from doré bars and other metal
+            feedstocks—enabling continuous reﬁning.
+
+            For example, using nitric and acetic acid, base metals can
+            be dissolved while gold and other precious metals remain,
+            allowing them to be continuously concentrated and
+            recovered. The choice of acid can be further tailored,
+            repeating cycles to target different metals depending on
+            the composition of the feedstock.
+Rowow LLC
+
+
+
+
+THE OPPORTUNITY
+                                      Mining liquid waste
+SEM TECH and the CMU can           Clear mining waste ran through
+                                   multiple ﬁltration methods had its
+process a wide range of            heavy metals reduced within 5-10
+                                   minutes at a cost of $5 a ton, while
+feedstocks, including mining       recovering and regenerating the acid
+
+
+waste and tailings, toxic            Reﬁning Dory Bars
+chemical waste, e-waste,           Our CRU processed a complex dory bar that traditional
+                                   nitric acid would not touch due to the complex alloy
+industrial byproducts, and many    formed by the vanadium/chrome/etc resulting in a complex
+                                   alloy similar to hastelloy. Our reﬁning unit leached out these
+                                   alloyed metals without issue.
+other materials. We have
+successfully treated diverse ore      Broad Elemental Recovery
+                                   Analysis with a Rigaku NEX DE Spectrometer veriﬁes our
+types as well, including           claims showing a diverse spectrum of rare earth
+                                   elements and critical minerals extracted. Additionally
+
+high-sulﬁde and other              third part analysis veriﬁed our capability of extracting
+                                   extremely noble metals such as Rhodium, traditionally
+                                   completely untouched by harsh acids such as aqua regia.
+complex-matrix feedstocks.
+Rowow LLC
+
+
+
+
+                                                             Evidence
+                                OBJECTIVES
+                      Don’t believe our words, Look at the results
+              Note: Disregard any Iridium readings as this is a common byproduct error of x-ray spectrum analysis with
+                 the presence of lead. Although our ORP (oxidizing redox potential) is capable of dissolving iridium.
+
+                                                                                                            (Third Party) Rhodium
+Platinum, Gold,                 Various Heavy Metals                    Pd, Ge, And many                    Important to verify leaching
+Gallium, Cobalt                                                         REM/CM                              capability
+Rowow LLC
+
+
+
+
+Beyond the mining process itself, the key breakthrough enabling this
+technology is our ion-exchange membranes. We developed an
+in-house formulation using water softener resin and PVC cement.
+While traditional ion-exchange membranes can cost up to $400 per
+square foot, ours cost under $1 per square yard.
+
+We have also ﬁeld-tested these membranes for months in harsh, acidic
+mining conditions with no observable decline in performance.
+Finally, we patented the membrane and released it as open source
+under the Creative Commons Zero (CC0) 1.0 Universal license,
+dedicating it fully to the public domain. We believe this enabling
+technology can impact countless industries—from agriculture and
+energy storage to fuel cells, waste treatment, and beyond.
+
+https://github.com/Rowow1/Open-sourced-off-the-shelf-ion-exchange-membrane
+Rowow LLC
+
+                                                                  OUR MISSION
+
+   Open source is a core motivation behind our work. Robert’s early career—and much of his inspiration—came from the RepRap
+  3D printer community in its earliest days. The idea of self-sustainability through a printer that could print another printer left a
+               lasting impression on him. One of Robert’s favorite quotes from RepRap creator, Adrian Bowyer, is:
+
+   “When my child’s feet grow, I just take [her old shoes], run them through the shredder with a little bit of extra plastic (bottle) and print
+                      out a new pair of shoes 1.1 times as big and the child has got a new pair of shoes that ﬁt again.”
+
+     Two decades later, RepRap helped shape what became a major force in the 3D-printing world—a technology now used by
+  countless companies and individuals. Yet their open-source approach didn’t hold them back. In fact, while many companies rose
+   and fell over those years, RepRap impact endured, showing that open-sourcing a key enabling technology can create an entire
+                                  industry where both the founders and the broader world beneﬁt.
+
+    A similar opportunity exists here. The battery industry alone is projected to reach roughly $500 billion. SEM TECH can help
+       unlock advances in areas like redox ﬂow batteries—an important technology historically constrained by the high cost of
+   ion-exchange membranes. By open-sourcing this enabling membrane technology, existing research can move more easily from
+                      the lab to real-world commercial production, delivering broad beneﬁts on a global scale.
+
+
+
+                                                            “Everyone wants to change the world but no one wants to try.”
+                                                                                     Lets Try?
+Rowow LLC
+
+
+
+
+            THE PROBLEM
+
+
+
+            All life and industry ultimately depend on chemistry. Even
+            processes like producing concrete or steel are fundamentally
+            chemical—not simply a matter of “heat it up and pour out the
+            metal,” as many people assume.
+
+            Take steelmaking, for example: it begins as a reduction process,
+            where coal (or carbon) reacts with iron oxide (rust) to reduce it
+            into pig iron and CO2. Oxygen is then reintroduced to reﬁne that
+            pig iron by removing impurities and excess carbon, producing
+            slag as a waste byproduct and yielding steel with a lower carbon
+            content. As any chemist will tell you, in traditional chemistry, half
+            of the work comes after the reaction—cleaning and purifying the
+            product you just made.
+Rowow LLC
+
+
+
+
+                                                     THE SOLUTION
+
+             Electro Chemistry works fundamentally directly at
+            the problem, because all of chemistry is determined
+                         by electron interactions.
+                    Electrolysis acts directly on chemical molecules to drive reactions, but without control it can be self-defeating. For example, when
+                    you electrolyze saltwater, sodium hydroxide forms at the negative electrode and chlorine forms at the positive electrode. Without a
+                    separator, those products mix and react with each other, effectively undoing the chemistry you just created.
+
+                    An ion-exchange membrane solves this by keeping the two sides separated while allowing speciﬁc ions to pass through. That level of
+                    selectivity lets you manage reactions with far greater precision—down to the movement of ions and electrons—so there’s much less
+                    opportunity for loss. In that sense, ion-exchange membranes are often described as a form of “nanotechnology,” because they
+                    enable control at extremely small scales.
+
+                    Another way to think about it is that ion-exchange membranes help you manage entropy. When you apply a voltage (charging), you
+                    create an imbalance between the two sides of the membrane. When you draw power through a load (discharging), that imbalance
+                    moves back toward equilibrium and releases usable energy. This is the basic operating principle of a redox ﬂow battery—an energy
+                    storage approach that can reach costs around $5 per kWh, compared with lithium-based systems that are often over $100 per kWh.
+
+                    Ion-exchange membranes aren’t magic, and they do have constraints—for example, they require compatible, conductive solutions to
+                    operate effectively. But with thoughtful design, many of these limitations can be addressed. Ultimately, what has held back this next
+                    wave of electrochemical technologies is the cost of the membranes—an issue we’ve tackled and open-sourced.
+Rowow LLC
+                                                 VALUE PROPOSITION
+
+
+
+                                               Why Rowow LLC?
+
+      Our primary competitive advantage isn’t a single piece of technology—it’s perspective. As many have
+      noted, what we’ve developed is simple and intuitive. It’s so straightforward that many people respond
+     with, “How did no one think of this before?” The logic is clear and the results speak for themselves—but
+                it requires the willingness to approach familiar problems from a diﬀerent angle.
+
+        Take the Continuous Mining Unit, for example. It uses ion-exchange membranes in a novel way to
+     recover dissolved metals from solution. Traditionally, these membranes are used in open-loop systems:
+    acid is purchased, ore is leached, metals are recovered, and the remaining solution is discharged as waste.
+    Closing the loop by routing the cathode stream back to the anode can seem counterintuitive, because the
+     opposing solutions would normally neutralize each other. However, the ion-exchange membrane biases
+    ion transport in a way that favors one direction, preserving a potential diﬀerence and allowing the cycle
+     to continue. It’s an unconventional approach—but it becomes obvious once you step outside traditional
+                                                    assumptions.
+      The same mindset applies to our membrane formulation. Instead of relying on the conventional (and
+      complex) process of post-functionalizing membranes, we start with pre-functionalized resin—widely
+       available and far easier to work with—then use it to produce ready-to-use membranes. The result is a
+                simpler, more accessible manufacturing pathway without sacriﬁcing performance.
+Rowow LLC                                                                  Electrodes                                        Membranes
+                                                                           We currently use coated graphite                  We haven’t experienced a membrane
+                                                                           electrodes, which typically last 2–3              failure even after months—nearly a
+Costs and Consumables                                                      months depending on usage and the                 year—of continuous use. The
+                                                                           leaching solution. At present, 50A
+                                                                           electrodes cost about $100 in materials
+                                                                                                                             membranes themselves are extremely
+SEM TECH involves various operating                                        and time at lab scale. One key area
+                                                                           Rowow LLC plans to invest in is
+                                                                                                                             inexpensive, and the entire assembled
+                                                                                                                             membrane frame structure costs under
+costs and consumables, but the core                                        improving electrode longevity and cost
+                                                                           by mass-producing our own in-house
+                                                                                                                             roughly $20–$50, mostly in
+                                                                                                                             cnc/fabrication time.
+system is designed around hot-swappable                                    glassy carbon and MMO electrodes,
+                                                                           which can last for years.
+
+components—such as electrodes,
+membranes, pumps, valves, and
+electronics—so repairs are quick,
+downtime is minimized, and maintenance
+is straightforward.
+
+Electrical Components             Mechanical Components                  Overall costs?
+Power supplies, monitoring                                               Each feedstock has its own processing requirements. For example, leaching largely inert
+                                  We use a magnetically driven,
+sensors, pump speed               acid-resistant pump to circulate the   quartz is far less costly than treating high-sulﬁde ore, which can require aggressive
+controls (VFDs), and related      leaching solution, along with a        chemical “burning” (oxidation) to break down sulfur. Under an electricity rate of
+hardware are inexpensive,         vibratory/ultrasonic mechanism to
+                                  dislodge plated powder from the        $0.15/kWh, operating costs typically fall in the $50–$200 per ton range. Industrial power
+straightforward, off-the-shelf
+                                  cathode. We also integrate a           is often $0.08/kWh or lower.
+components selected               continuous vacuum ﬁltration
+speciﬁcally for reliability and   drum—an industrially proven            Having an engineering mindset, I prefer to build in a generous margin of error. At
+easy replacement—even in a        technology—for reliable solid–liquid   residential electricity rates, I estimate SEM TECH operates at roughly $50–$400 per ton,
+worst-case scenario.              separation.
+                                                                         with component replacement
+Rowow LLC                                                                                                                                                    14
+
+
+
+
+Future
+
+
+Plans and Objective?
+
+
+         Scale Up
+         Rowow has already run SEM TECH at the 10–50 lb scale and produced materials with veriﬁed results. The next
+         step is to scale to a system capable of processing tons per day—an essential threshold for economic viability
+         in mining, since ore and e-waste are relatively low-value feedstocks (roughly $1,000–$5,000 per ton).
+         Reaching the ton per day scale will require initial R&D and the development of basic manufacturing capacity,
+         particularly for electrodes.
+         Mass Production
+         The next step is scaling into mass production so we can manufacture these electrolysis
+         cells—and their supporting components—cost-effectively at volume. We also need the right
+         lab space and analytical equipment to run accurate mass-balance testing on ore samples
+                                                                                                                     Reach out:
+         down to the ppb level. So far, we’ve only scratched the surface of what this technology can
+         do.
+                                                                                                                     irowow@gmail.com
+         How you can help
+                                                                                                                     Florida USA
+         Help us share the technology, spread the word, and connect us with media and collaboration                  https://rowow.net/
+         opportunities. Our main goal is to scale the system and secure proper funding for continued
+                                                                                                                     https://www.youtube.com/@Rowow/videos
+         development. Scaling isn’t a DIY challenge—it’s an economic one, and it requires real resources.
+Rowow LLC
+
+
+
+
+Existing Work
+
+
+Rowow LLC has already built a
+dedicated laboratory for this
+open-source technology. Beyond
+the rooﬁng, framing, and concrete
+(shown in the ﬁrst photo), Robert
+constructed everything else
+himself in just three
+months—including the exterior
+and interior walls, insulation,
+mezzanine, cabinetry, electrical
+work, and more.
+DOE GRANT
+Examples of Cost
+      To the right is an
+example of the costs required
+to scale the technology
+properly and responsibly,
+both to build a fully
+developed pilot-scale system
+and to establish
+mass-manufacturing
+capability. Some items, such as
+WDXRF and ICP-MS, are
+high-end laboratory
+instruments that require
+specialized lab space and
+costly installation, and the
+equipment itself represents a
+major expense.
+Rowow LLC
+
+
+
+
+THE OPPORTUNITY
+
+One of our biggest takeaways from 2025 was that some
+expenses simply can’t be avoided—or DIY’d. We spent over a
+year trying to analyze our materials using improvised,
+low-cost chemical methods and saw little meaningful
+progress. We also learned the hard way how diﬃcult it is in
+the U.S. to ﬁnd labs with the specialized expertise required
+for platinum group metals, since most primary production
+and deep technical capability is concentrated in places like
+Russia and South Africa. We even attempted to cut costs
+with a low-priced Chinese XRF unit and ended up getting
+scammed. Some fundamentals can’t be shortcut: proper
+tools, materials, and skilled labor cost money.
+
+With the right funding, our progress accelerated quickly.
+We moved from a rough prototype built from whatever
+parts we could ﬁnd to properly manufactured equipment
+made with appropriate materials. Early on, something as
+simple as clear PVC sheet felt out of reach. Even now, we’ve
+only scratched the surface.
+Rowow LLC
+
+
+Potential applications for SEM TECH’s ion-exchange-membrane electrolysis platform
+
+As SEM TECH’s core stack manufacturing and mining-unit buildout matures, the same electrochemical architecture can be adapted to adjacent
+membrane-electrochemical systems with minimal redesign—often by reusing the existing cell hardware.
+
+Fuel cells (electrochemical power generation)
+Membrane fuel cells convert hydrogen directly into electricity. Additionally ethanol, methanol, or ammonia can be fed directly into these fuel cells, converting directly
+into electricity and only emit carbon dioxide+water (no other harmful gasses like NOX, carbon monoxide, particulates, etc)
+Example companies: Toyota; Hyundai Motor Company; Plug Power
+
+e-Methanol (power-to-liquids)
+Electrolysis produces hydrogen from water, which is then combined with captured CO₂ to synthesize methanol (an e-fuel and chemical feedstock).
+Example companies: European Energy; Liquid Wind; Carbon Recycling International
+
+Redox flow batteries (long-duration energy storage)
+Flow batteries use liquid electrolytes separated by ion-selective membranes to provide scalable, long-cycle grid storage.
+Example companies: Sumitomo Electric Industries; ESS Inc.; Invinity Energy Systems
+
+Hydroponic nutrient & pH control (recirculating systems)
+Electromembrane ion management can support tighter nutrient balance, pH stabilization, and water reuse in controlled-environment agriculture and hydroponics.
+Example companies: Netafim; Priva; Autogrow
+
+Salinity-gradient power / “blue energy” (reverse electrodialysis / osmotic power)
+Membrane stacks can generate electricity from the ionic gradient between high-salinity and low-salinity water streams (e.g., brine + fresh water).
+Example companies: SaltPower; REDstack; Statkraft
+
+Broader electrochemical manufacturing (chlor-alkali and other separations)
+Ion-exchange membranes are central to large-scale electrochemical processes (e.g., chlor-alkali) and can extend to other acid/base and salt separations.
+Example companies: thyssenkrupp nucera; Asahi Kasei; Chemours
+
+These are real technologies with real research paper and real working units. This is not theory or speculation.
+Thank you!!!
+irowow@gmail.com
+Florida USA
+https://rowow.net/
+https://www.youtube.com/@Rowow/videos
+

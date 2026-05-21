@@ -1,0 +1,163 @@
+Title of the Invention
+
+Low-Cost Homogeneous Ion Exchange Membrane Formed from Off-the-Shelf Precursors and
+Manufacturing Process Thereof
+
+
+Cross-Reference to Related Applications
+
+Not Applicable.
+
+
+Statement Regarding Federally Sponsored Research or Development
+
+Not Applicable.
+
+
+Background of the Invention
+
+[0001] The present invention relates to ion exchange membranes, particularly homogeneous
+cation and anion exchange membranes for electrochemical applications, including but not limited
+to electrolysis cells, redox flow batteries, mining processes (e.g., acid regeneration and metal
+leaching), water treatment, and chemical production.
+[0002] Ion exchange membranes enable selective transport of cations or anions under an applied
+electric field, facilitating direct electrochemical control of reactions with minimal waste.
+Applications span energy storage (e.g., redox flow batteries), resource recovery (e.g., precious
+metal extraction), agriculture (e.g., pH control in hydroponics), waste management, and general
+chemical synthesis.
+[0003] Conventional ion exchange membranes are typically produced using specialized
+precursors and multi-step functionalization processes, such as sulfonation or amination of
+polymer backbones, often requiring hazardous chemicals (e.g., chlorosulfonic acid) or complex
+post-treatments. These methods result in high manufacturing costs (often hundreds of dollars per
+square foot), limited accessibility, and challenges in scalability or integration into electrolysis
+cells. Commercial membranes are expensive and not readily available to researchers or
+hobbyists, while makeshift alternatives (e.g., clay pots) exhibit poor selectivity, high resistivity,
+and mechanical/chemical limitations.
+[0004] Prior art, such as US2948637A, relies on sulfonating agents to functionalize polymers,
+while US4851100A describes coating existing membranes to form bipolar structures rather than
+standalone homogeneous membranes. Other approaches involve melt-processing, additives, or
+post-functionalization, which add complexity and cost.
+[0005] There remains a need for low-cost, homogeneous ion exchange membranes using readily
+available, off-the-shelf ingredients, with simple manufacturing that avoids post-functionalization
+and enables easy integration into cells
+
+Brief Summary of the Invention
+
+[0006] The present invention provides a homogeneous ion exchange membrane comprising
+pulverized commercial ion exchange resin particles dispersed in a polyvinyl chloride (PVC) or
+
+
+1
+chlorinated polyvinyl chloride (CPVC) matrix, formed from a solvent-based mixture and dried
+into a film. The membrane utilizes pre-functionalized resins (e.g., strong/weak cation or anion
+exchange resins from water softeners), achieving high ion selectivity, low resistivity, and
+chemical durability at a cost less than $1 per square foot (or yard in thin applications).
+[0007] The manufacturing process involves: (1) pulverizing commercial resin beads into fine
+powder; (2) mixing the powder with dissolved PVC/CPVC in a compatible solvent to form a
+homogeneous glue; and (3) applying the mixture to a surface, drying, and peeling to form the
+membrane. No post-functionalization, heating, or cross-linking is required.
+[0008] Advantages include accessibility using household equipment (e.g., blender), compatibility
+with PVC/CPVC cements for cell sealing, tunable properties (e.g., resin type/ratio for
+selectivity), and applications in harsh environments (e.g., pH 0, high oxidizing potential).
+
+
+Brief Description of the Drawings
+
+FIG. 1 is a flowchart illustrating the manufacturing process for the homogeneous ion exchange
+membrane according to embodiments of the present invention, including optional dry and wet
+pulverizing paths, water removal options, and the mixing, application, and formation steps.
+
+
+Detailed Description of the Invention
+
+[0009] The invention provides a homogeneous ion exchange membrane and method of
+manufacture using off-the-shelf precursors. The membrane is homogeneous, meaning uniform
+distribution of ion exchange functionality throughout the structure without distinct layers or
+heterogeneous particles.
+[0010] The membrane comprises: (a) pulverized particles of commercial ion exchange resin
+(pre-functionalized, e.g., strong acid cation, weak acid cation, strong base anion, weak base
+anion, or mixtures thereof); and (b) a binder matrix of PVC or CPVC with a solvent.
+[0011] As illustrated in FIG. 1, the overall manufacturing process begins with commercial ion
+exchange resins, which are typically spherical beads (small, insoluble, porous micro-beads used,
+for example, in water softening). These beads are pulverized into fine powder using mechanical
+shearing methods such as grinding (step 2, dry or wet), ball milling (step 3, dry or wet), or other
+grinding techniques. Wet processes may include water to assist lubrication. If water is
+introduced, it is removed to obtain dry powder or a controlled slurry before further processing.
+[0012] Water removal from slurries can be accomplished by spray drying (step 4),
+settling/decanting followed by air drying and blending (step 5), or sieving collected slurries.
+These options are shown in the branched paths of FIG. 1. The resulting dry powder or suitably
+prepared material is then mixed with a solution of PVC or CPVC dissolved in a compatible
+solvent (e.g., tetrahydrofuran (THF), cyclohexanone, methyl ethyl ketone) (step 6). Preferred
+ratio: 10-70% resin powder by volume (typically ~50% for balanced conductivity and
+mechanical strength); polymer-to-solvent ratio ~3:7 (adjustable for desired viscosity). Optional
+additives (e.g., fiberglass, fumed silica, sand) may be included for structural enhancement.
+Additional solvent can be added to reduce viscosity for spraying or other application methods.
+[0013] The homogeneous glue-like mixture (referred to as the "Ion Exchange Membrane Mix" in
+FIG. 1) is applied (step 7) to a non-adhesive, solvent-resistant surface (e.g., polypropylene sheet)
+or directly onto a substrate (e.g., polypropylene felt for reinforcement), cell frame, or electrode
+by spreading, extruding, spraying, pouring, or other suitable means. The applied mixture dries to
+
+2
+form a peelable film or permanent coating, with thickness tunable by the application technique.
+Uneven drying is prevented (e.g., using an enclosed environment). The membrane may be
+partially dried to avoid cracking or warping before peeling or further handling.
+[0014] Embodiments include: cation-selective membranes (using cation resins); anion-selective
+(using anion resins); specialized ion resins for selectivity (e.g., rare earths, platinum group
+metals); thin spray films (<$1/sq yard); coatings on electrodes or microporous ion selective
+separator (e.g., for lithium separation to block out larger sodium ions).
+[0015] Best mode: Use water softener cation exchange resin beads, pulverize in a high-speed
+blender (<120 seconds), mix 50% powder with PVC in THF (3:7 polymer:solvent), spread on
+polypropylene sheet, dry partially to avoid cracking, peel. Result: flexible/rigid, watertight
+membrane with commercial-level conductivity/selectivity.
+[0016] Testing in harsh conditions (acidic/alkaline mining solutions, high ORP) shows durability
+over months, low energy loss, and electro-osmosis. Cost: fraction of commercial membranes.
+
+
+Claims
+
+    1.​ A homogeneous ion exchange membrane comprising: pulverized particles of a
+        commercial pre-functionalized ion exchange resin dispersed in a matrix of polyvinyl
+        chloride (PVC) or chlorinated polyvinyl chloride (CPVC).
+    2.​ The membrane of claim 1, wherein the ion exchange resin is selected from strong acid
+        cation exchange resin, weak acid cation exchange resin, strong base anion exchange
+        resin, weak base anion exchange resin, or mixtures thereof.
+    3.​ The membrane of claim 1, wherein the resin particles are pulverized to a particle size less
+        than 200 microns.
+    4.​ The membrane of claim 1, wherein the resin particles comprise 10-70% by volume of the
+        membrane.
+    5.​ A method of manufacturing a homogeneous ion exchange membrane, comprising:​
+        a) pulverizing beads of a commercial pre-functionalized ion exchange resin into a fine
+        powder;​
+        b) mixing the powder with a solution of polyvinyl chloride (PVC) or chlorinated
+        polyvinyl chloride (CPVC) in a solvent to form a homogeneous mixture; and​
+        c) applying the mixture to a surface and drying to form a membrane composite.
+    6.​ The method of claim 5, wherein pulverizing is performed using a mechanical shearing
+        device selected from a blender, grinder, or ball mill.
+    7.​ The method of claim 5, wherein the solvent is selected from tetrahydrofuran,
+        cyclohexanone, or methyl ethyl ketone.
+    8.​ The method of claim 5, further comprising removing water from the powder prior to
+        mixing if introduced during pulverizing.
+    9.​ The method of claim 5, wherein applying comprises spreading, spraying, extruding, or
+        pouring.
+    10.​The method of claim 5, wherein the membrane is peeled from the surface after partial
+        drying or left as a permanent coating.
+
+
+Abstract
+
+
+
+3
+A low-cost homogeneous ion exchange membrane is formed from pulverized commercial
+pre-functionalized ion exchange resin particles dispersed in a PVC or CPVC matrix. The
+membrane is manufactured by pulverizing resin beads into powder, mixing with dissolved
+PVC/CPVC in solvent to create a glue-like mixture, applying to a surface, and drying to form a
+peelable film. The process avoids post-functionalization, enabling costs less than $1 per square
+foot, high selectivity, durability in harsh conditions, and easy integration into electrochemical
+cells for applications including mining, energy storage, and chemical processing.
+
+
+
+
+4
+

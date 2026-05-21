@@ -1,0 +1,757 @@
+       ROWOW LLC​     irowow@gmail.com +1 (407) 724-8687
+
+
+Cover Page
+Project Title: SEM TECH - Ion Exchange Electrolysis Continuous Mining
+​
+SEM TECH: Salt Electro Mining Technology
+CMU: Continuous Mining Unit​         CRU: Continuous Refining Unit
+
+Specific NOFO Topic: Rowow, LLC’s proposed project directly addresses Innovative Critical
+Minerals Recovery. We are in full alignment with DOE’s technology development areas, 2.
+Mining and Processing and 3. Equipment and Productivity. We will build upon previous
+successful mining waste processing demonstrations, confirming the efficacy of our ion
+exchange technology and methods. These are referenced throughout our response. The
+proposed technology is currently at TRL 5, and Rowow will scale to TRL 7 or greater under
+our award from DoE.
+
+Technical and Business Point of Contact: Mr. Robert Karas, Rowow, LLC (OWNER) will serve
+as Project Director and will be the POC for all questions and issues concerning this
+submission and during the performance of work under the award. He may be reached
+directly by email at irowow@gmail.com and by phone at (407) 724-8687.
+The Project Team: Mr. Robert Karas, Project Director, will be directly responsible for overall
+project management, primarily focusing on the fundamental research, material processing,
+and deliverables under the award.
+
+Project Locations: All mining material will be processed at a new location to be determined.
+​
+Proposed Federal Funding: The overall project funding is $12,799,424. We propose a
+36-month performance period with a projected start date of 07/01/2026 and an end date
+of 06/30/2029.
+
+Senior/Key Personnel and other Covered Individuals: As Project Director and the developer
+of our technology and methods, Mr. Robert Karas will perform all materials processing and
+extraction.
+
+Statement Regarding Confidentiality: Due to the project’s open source stance and nature, a
+request for confidentiality is not required. The ultimate objective of this project is to
+establish a novel industry that can achieve economic competitiveness through further
+advancements. The only technology that has not been disclosed is the ion exchange
+membrane; its planned release will be open-sourced.
+​
+Statement Regarding AI Use: AI assisted in formatting and editing to match DOE verbiage.
+
+
+
+
+                                                                                           1 of 15
+       ROWOW LLC​     irowow@gmail.com +1 (407) 724-8687
+
+
+Project Overview Background
+The project began in November 2023, leveraging prior work on low-cost ion exchange
+membranes originally developed for redox flow battery applications. After Richard Ebanks
+introduced gold-bearing ore for evaluation, initial bench-scale testing used aqua regia to digest
+the precious metals. Recovering metals through traditional reduction and precipitation proved
+difficult and posed issues. Electrolysis enabled the successful plating of gold powder, but the
+acid cost (notably nitric acid) and process requirements (heated, stirred solutions)
+demonstrated that aqua regia-based digestion would be difficult to scale economically for
+mining applications.
+​        Subsequent research identified sodium chlorates and sodium hypochlorites as practical
+alternative oxidizers with established use in platinum group metal recovery. Because these
+oxidizers can be generated cost-effectively via saltwater electrolysis, Rowow LLC developed a
+test-scale, electrochemically driven process that demonstrated controlled precious metal
+extraction from rock samples. This work evolved into a continuous, closed-loop extraction and
+recovery architecture in which key acids (e.g., hydrochloric acid and chlorate oxidizers) are
+generated in situ using electricity and brine, reducing dependence on externally supplied
+chemicals. This integrated process platform is designated under SEM TECH as the Continuous
+Mining Unit (CMU).
+​        Early scale-up trials processed larger ore quantities and consistently produced
+concentrated mixed-metal powders. Follow-on refining confirmed rhodium recovery and
+indicated the presence of additional platinum group metals, which substantially increased
+downstream separation complexity under conventional refining workflows. Over approximately
+one year, the team sought domestic analytical, refining, and off-take capabilities but identified
+limited U.S. capacity for a platinum group and rare earth overall. In parallel, development was
+constrained by limited in-house analytical methods until funding allowed for a dedicated
+laboratory and the procurement of XRF analytical capability (Rigaku NEX DE), accelerating
+iteration and validation.
+         Within the following year, funding by mining firms interested in SEM TECH, accelerated
+construction and the development of multiple electrolysis-based mining unit variants, and new
+ion exchange membrane manufacturing methods were established. In parallel, the Continuous
+Refining Unit (CRU) expanded SEM TECH’s operating modes through straightforward changes to
+solution chemistry and electrode types. Recent efforts also discovered related
+electro-separation approaches, including electrodialysis and a multi-cell configuration that
+enable single-stage elemental separation. Collectively, these outcomes provide a strong
+technical foundation to advance SEM TECH as a scalable, closed-loop platform for domestic
+recovery of precious, platinum group, rare earth, and other critical elements from diverse
+feedstocks, including mining waste and low-grade ores.
+         Based on the updated 2025 list of 60 critical minerals, SEM TECH is capable of extracting
+all but 4 minerals. 53 of those elements can be extracted and concentrated by SEM TECH in a
+single leaching solution. Please see our supporting documents for a full listing. SEM TECH is not
+designed to directly extract Barite, Fluorspar, Metallurgical Coal, and Graphite because these are
+primarily recovered as native mineral/compound resources rather than as extractable dissolved
+elemental species. Synthetic pure Fluorspar (CaF₂) may be created from elements extracted by
+SEM TECH. The remaining 3 elements (Silicon, Titanium, and Tungsten), can be extracted by
+
+
+
+
+                                                                                           2 of 15
+       ROWOW LLC​     irowow@gmail.com +1 (407) 724-8687
+
+
+SEM TECH utilizing the same components in the Continuous Mining Unit (CMU), only requiring a
+slight modification to which leaching solution is being utilized.
+        Finally, rough lab scale testing showed promising potential in the cost to process through
+the technology. These numbers are rough approximations and do not reflect a long term
+continuous operation (finalized under the scope of this project). Field sourced mining waste
+solution was processed at a cost of less than $5 a cubic yard, and 1 ton of ore was determined
+to cost $50-400 extracting its critical minerals. The feasibility section details more.
+
+Project Goal
+Under this award, Rowow, LLC will execute a three-goal program to scale a fully functional,
+closed-loop Continuous Refining Unit (CRU) capable of recovering precious metals and rare
+earth elements at throughput levels relevant to pilot-scale operations. The integrated system is
+designed to advance DOE resource recovery objectives while materially reducing waste
+generation and the environmental impacts associated with conventional mining and refining
+practices.
+         Goal 1 – Facility Relocation and Operational Readiness: Relocate and commission
+operations at an industrial facility with the utilities, permitting posture, and physical capacity
+required to execute the project tasks and establishing the long-term project vision necessary to
+and sustain DOE-aligned activities after project completion.
+         Goal 2 – SEM TECH R&D and System Engineering: Complete targeted research,
+component optimization, and end-to-end system engineering for SEM TECH, including design
+maturation of critical subcomponents and parts, while maintaining project objectives for
+closed-loop operation, high recovery efficiency, manufacturability, and scalable deployment.
+         Goal 3 – Prototype Build and Field Demonstration to TRL 7 or Higher: Develop and
+integrate SEM TECH within the Continuous Mining Unit (CMU) and CRU architectures to a full
+prototype configuration that meets TRL 7 performance and validation criteria (or higher),
+including processing of material from or at representative field test sites across multiple mine
+types and feedstocks.
+         Rowow will validate its proprietary ion-exchange membrane formulation, electrode
+architectures, and associated manufacturing processes to confirm performance and durability
+within SEM TECH and the CMU closed-loop configuration. The project will quantify recovery
+yields, energy and chemical consumption, alongside accurate waste reduction calculations to
+demonstrate that the proposed electrolysis-based recovery approach can deliver economic and
+environmental advantages not readily achievable with conventional alternatives at comparable
+simplicity, yields, and cost. The work plan defines the technical pathway, milestones, and test
+protocols required to advance the CRU from TRL 5 through TRL 6 to TRL 7, supported by fully
+documented test results. By the end of the period of performance, Rowow will have a
+functional metals and rare earth recovery process operating on-site, and the final report to DOE
+will document measured recovery performance, environmental benefits, and techno-economic
+viability of the SEM TECH for domestic resource recovery.
+
+DOE Impact
+An award from the U.S. Department of Energy would provide a material acceleration to
+
+
+
+
+                                                                                           3 of 15
+        ROWOW LLC​        irowow@gmail.com +1 (407) 724-8687
+
+
+Rowow’s development and validation pathway. The project is positioned at a key inflection
+point in SEM TECH and its component’s final testing and scale-up. The proposed scope will build
+on prior technical results to advance the current TRL 5 system to TRL 7 or above through
+integrated prototype operation and field-relevant validation. Scale-up under this award will (i)
+further substantiate the performance and repeatability of SEM TECH, (ii) increase recovered
+metals and rare earth element yields through higher-throughput operation, and (iii) generate
+quantitative techno-economic data to support commercialization planning. To date, project
+progress has been primarily supported through internal resources, which has constrained the
+pace and breadth of development as system complexity and testing requirements have
+increased.
+         During 2025, Rowow received limited private-sector support through engagements with
+mining companies to conduct research activities and small-scale mine waste processing tests.
+These demonstrations were successful and are documented in the application. Targeted funding
+materially improved progress by enabling the acquisition of critical analytical capability and
+facility resources allowing for new feedstocks to be tested. The proposed project will extend this
+foundation through controlled and repeatable tests to full prototype and production-relevant
+operation, establishing SEM TECH’s overall capacity, along with subcomponent efficiency,
+durability/longevity, and manufacturing scalability while expanding the range of recoverable
+metals and rare earth elements. Absent DOE support, the capital and operational requirements
+to achieve production-scale validation and the associated data package are not achievable
+within a reasonable timeframe through independent funding alone.
+Budget
+Category                                            Year 1       Year 2     Year 3     Total
+Lead Researcher Team Salary                         $300,000     $300,000   $300,000   $900,000
+Administrative Team Salary (Indirect Cost)          $150,000     $150,000   $150,000   $450,000
+Accounting/Office (Indirect Cost)                   $50,000      $50,000    $50,000    $150,000
+Labor/Employees (4)                                 $250,000     $250,000   $250,000   $750,000
+Chemists/Technicians (2-3)                          $200,000     $200,000   $200,000   $600,000
+Chemical Engineer (1)                               $180,000     $180,000   $180,000   $540,000
+Purchasing new ICP-MS                               $450,000     $0         $0         $450,000
+Purchasing new WD-XRF                               $350,000     $0         $0         $350,000
+Manufacturing Equipment                             $0           $400,000   $500,000   $900,000
+Injection Molding Equipment                         $0           $0         $700,000   $700,000
+Vacuum Filtration Equipment                         $0           $200,000   $0         $200,000
+Safety Equipment                                    $180,000     $0         $0         $180,000
+Supplies/materials/chemicals                        $50,000      $200,000   $200,000   $450,000
+600 Tons of ORE                                     $2,699,424   $0         $0         $2,699,424
+Property                                            $2,500,000   $0         $0         $2,500,000
+Third party analysis services                       $50,000      $50,000    $50,000    $150,000
+Facility modifications                              $75,000      $25,000    $50,000    $150,000
+Travel/Insurance/Utilities/Misc (Fringe Benefits)   $160,000     $260,000   $260,000   $680,000
+Cost Share
+Federal Total
+
+
+
+
+                                                                                               4 of 15
+          ROWOW LLC​      irowow@gmail.com +1 (407) 724-8687
+
+
+Total                                               $7,644,424    $2,265,000   $2,890,000   $12,799,424
+Indirect/fringe costs, totaling $1,280,000, less than 15% of the total allowed ($1,919,913.60)
+
+Technical Description, Innovation, and Impact
+        Relevance and Outcomes
+        Rowow’s SEM TECH platform is enabled by a proprietary ion-exchange membrane
+formulation and manufacturing process that yields membranes with tunable transport
+properties suitable for multiple cell configurations. In the current mining configuration, the
+membrane functions as a cation exchange separator that preferentially transports positively
+charged ions while rejecting anions. Under an applied electric field, this selective ion transport
+sustains charge balance and establishes a stable electrochemical potential gradient across the
+separator, enabling controlled migration of target cations while maintaining separation of acidic
+and alkaline environments.​
+​       The membrane is produced from a novel polymer recipe using consumer grade available
+precursor materials, resulting in a substantially lower cost alternative to conventional
+commercial ion exchange membranes. As a representative comparison, commercial membranes
+are approximately $100 for a sheet1, whereas Rowow’s membranes are produced for less than
+$1 for the same area. Beyond cost, the membrane is designed to provide improved resistance to
+fouling and acid attack, while supporting configurable ion transport behavior tailored to specific
+process chemistries.
+        Prior research has demonstrated ion exchange membrane approaches for acid and
+mineral recovery2. However, broad commercial adoption in mining applications has been limited
+by high membrane cost and performance degradation in harsh varying solutions. A low cost
+process compatible membrane is therefore a key enabling element for an economically viable
+continuous electrochemical recovery system aligned with DOE objectives.
+        SEM TECH applies this membrane enabled electrochemical architecture to the
+extraction, recovery, and treatment of metals from ores and mining waste streams to support
+domestic industries requiring a critical mineral supply. The system drives targeted redox
+transformations electrochemically by operating at controlled electro voltage potentials selected
+near relevant thermodynamic thresholds, reducing dependence on bulk chemical reagents and
+improving process efficiency relative to conventional chemical methods for comparable or
+superior transformations. The platform is designed to accommodate broad dissolved metal
+chemistries, enabling recovery of heavy metals into a concentrated mixed-metal powder
+suitable for downstream refining through additional SEM TECH continuous refining units or
+established industrial processing pathways.
+        Selectivity for separation and refinement can be further tuned through the combined
+selection of electrolyte/acid solution, electrode materials, and operating potentials, enabling
+staged recovery and purification from mixed concentrates. The program objective is an
+integrated closed loop electrochemical process from extraction through concentration and
+refinement to purified elemental products or industrial ready materials that minimizes
+consumable usage and eliminates generation of toxic waste streams.
+
+1
+    https://www.aliexpress.us/item/3256804341058677.html?channel=twinner
+2
+    https://www.sciencedirect.com/science/article/pii/S2468227624004526
+
+
+
+
+                                                                                                  5 of 15
+           ROWOW LLC​      irowow@gmail.com +1 (407) 724-8687
+
+
+         Feasibility
+         A substantial body of peer reviewed research has established the technical basis and
+recovery potential of ion-exchange membrane electrolysis systems for metal and acid recovery.
+However, membrane cost and fouling in aggressive, mixed ion solutions have historically been
+prohibitive for broad deployment at scale. When appropriately engineered and operated at
+controlled electrochemical potentials, membrane enabled electrodeposition can achieve very
+high recovery and selectivity. For example, a recent electromembrane reactor study treating a
+real copper electrorefining effluent reported complete antimony recovery (100%) and near
+complete recovery of bismuth (95%) and copper (90%) after 4 hours under galvanostatic
+operation. The study further showed that membrane separators improve current efficiency
+while regenerating the chlorine separately for further acid reuse3.
+​        Based on in house results and process rationale, Rowow expects that continuous
+operation can support >99% recovery for many target critical metals (including rare earths,
+precious metals, and heavy metals), recognizing electrochemical systems are typically operated
+to maintain trace residual dissolved metals to maintain above dynamic equilibrium for stable
+mass transfer rather than forcing complete depletion in a single batch step.
+​        Rowow has resolved the primary cost barrier through a novel recipe and manufacturing
+method and has demonstrated membrane efficacy under harsh, mixed chemistry conditions,
+establishing a defensible baseline for SEM TECH industrial feasibility. Remaining work focuses on
+final optimization and design to validate upper performance limits, allowing for economical
+utilization of the membrane and supporting components (e.g., electrodes, electrolyte chemistry,
+cell flow configuration, and controls) at scale. Field engagement with multiple mines and
+representative materials has further matured Rowow’s understanding of real world constraints,
+including feed variability, operational robustness requirements, and deployment considerations.
+​        SEM TECH ion-exchange electrolysis units have been tested in-house on raw mining ore,
+tailings, and other provided materials, demonstrating the capability to process diverse
+feedstocks under harsh conditions, including direct processing of high sulfide ore. In additional
+demonstrations, ore previously treated via mercury amalgamation was processed through the
+electrolysis system, showing the extraction of toxic heavy metals and recovery of remaining
+precious metals (e.g., gold and platinum) and other rare earth elements, while producing
+non-toxic tailings. Energy consumption (calculated with a large margin of error) was estimated
+at 300-2,200 kWh to fully leach and recover critical minerals from one ton of ore, corresponding
+to approximately $50-$400/ton. This power demand is consistent with a standard 100-amp
+residential service supporting a 1 ton/day unit. Ore and waste-stream processing cost were
+strongly influenced by variabilities such as sulfide and calcium content, which increased time
+and energy requirements to react with constituents, regenerate/maintain the required acidic
+conditions, and initiate effective “bleaching” conditions capable of dissolving precious metals.
+These outcomes indicate strong technical potential and favorable preliminary economics even
+with early, non-optimized electrolysis cells, and they define clear pathways for improvement
+under the proposed project scope.
+​        The expected physical footprint for a continuous mining unit is modest, approximately
+
+3
+    https://www.sciencedirect.com/science/article/pii/S1383586625011839
+
+
+
+
+                                                                                          6 of 15
+       ROWOW LLC​      irowow@gmail.com +1 (407) 724-8687
+
+
+50-300 ft² to process one ton per day with the vacuum filtration drum representing the largest
+single footprint element. The electrolysis cell stack itself occupies only a few square feet at that
+throughput. Scaling is not constrained, moreover, efficiency is expected to improve with scale
+through better integration and reduced relative losses. Overall, the infrastructure required to
+operate SEM TECH CMU and CRU systems is minimal and does not require specialty site
+modifications.
+​       Mining waste liquids have also been processed, resulting in precipitation (“crashing out”)
+of dissolved heavy metals into a filterable solid. In a representative case, the observed
+processing energy was <33 kWh (approximately $5 in electricity) to process 255 gallons of
+mining liquid waste.
+​       From an operational standpoint, SEM TECH relies on straightforward process controls
+(e.g. conductivity and current density monitoring), enabling rapid training and simplified
+operation. Safety requirements are minimized through appropriate enclosures, ventilation, and
+leak detection. Routine inspections and maintenance of seals and fittings remain standard
+practice. In the unlikely event of a major gas leak, the presence of a strong chlorine odor
+provides an additional detectability cue. Fundamentally, SEM TECH is designed for operation
+without requiring specialized higher education, supporting scalable workforce adoption and
+rapid deployment across sites.
+        Innovation and Impacts
+        The enabling innovation is Rowow’s ion-exchange membrane. Simplified recipes and
+scalable manufacturing approaches provide a practical pathway to utilization in electrochemical
+processes that have not been economically attainable with conventional commercial
+membranes. Complementing the membrane is a unique flow design implemented as a
+continuous, closed loop process, where electrolyte solution is transferred from the cathode
+compartment to the anode side. This differs from typical ion exchange electrolysis
+arrangements and has demonstrated strong performance for continuous cycling and stable
+operation. These typical configurations such as fully divided, stationary cells remain valuable for
+specific use cases such as liquid mine waste treatment and acid regeneration. However, the
+integrated flow approach provides a more effective architecture for continuous closed loop
+processing.
+​       The projected impact to the mining sector is significant. Mine wastes can be reprocessed
+economically to regenerate acids and electrochemically reduce dissolved species, enabling
+recovery of critical minerals and heavy metals into a collectable product stream. Following
+heavy metals removal, the remaining solution can be electrochemically neutralized to a disposal
+ready condition, substantially reducing pollutant release and long term environmental liabilities.
+​       Pilot scale demonstrations across multiple cell configurations will establish operating
+envelopes and deployment options, enabling both overall process redesign and incremental
+integration into existing mining and refining workflows. In either pathway, SEM TECH is
+positioned to improve recovery efficiency, increase yields, and eliminate toxic waste generation
+through closed loop electrochemical processing.
+
+​
+​
+
+
+
+
+                                                                                             7 of 15
+       ROWOW LLC​      irowow@gmail.com +1 (407) 724-8687
+
+
+Workplan
+        Project Objectives
+The project’s overall goal is to advance the SEM TECH Ion Exchange Electrolysis Continuous
+Mining and Refining system from a Technology Readiness Level (TRL) of 5 to TRL 7 or above.
+        The three primary objectives to achieve the goal are to procure the required facility for
+the project’s overall scope, fully test and validate SEM TECH, and scale SEM TECH for use in a
+closed loop Continuous Mining Unit (CMU) and Continuous Refining Unit (CRU) capable of
+extracting and refining heavy metals, precious metals, rare earth elements, and other critical
+minerals from diverse feedstocks.
+Key objectives throughout the project include:
+    ●​ Validating system performance and generating credible technical and economic data for
+        successful commercialization.
+    ●​ Design SEM TECH from domestically sourceable materials to be utilized in
+        manufacturing.
+    ●​ Establishing a proving ground facility for testing, demonstrations, and future proving
+        groundwork with the DOE.
+    ●​ Finalizing and optimizing core components such as membranes, electrodes, and
+        electrolysis modules.
+    ●​ Prioritizing high recovery yields, low processing costs, and fully closed loop operation
+        with no toxic waste.
+Expected Outcomes are:
+    ●​ Scaled, in house production from domestically sourced materials of all key SEM TECH
+        components (membranes, electrodes, overall electrolysis cells).
+    ●​ A fully functional critical minerals extraction and refining technology that is globally
+        competitive and strengthens the U.S. mining supply chain.
+    ●​ A final facility capable of producing and supporting complete SEM TECH systems for
+        testing of ore and feedstocks for rapid deployment at mine sites.
+    ●​ Establish SEM TECH potential in utilization for domestic mining and refining sites, playing
+        a key role in securing U.S. critical mineral supplies, by providing the key technology and
+        educational resources.
+
+        Technical Scope Summary
+The project is organized into three work scope and budget periods.
+        Budget Period 1 (Facility Acquisition and Setup): Rowow will identify and acquire an
+operations facility that is fully permitted and located within an industrially zoned area. Activities
+will include relocation, commissioning, and interior modifications to support all project
+operations. Safety planning will be a primary focus throughout, including the design and
+installation of safety controls such as monitoring systems, training, and containment measures.
+We will procure key analytical instrumentation to support research and verification needs,
+including a wavelength dispersive XRF spectrometer and an ICP-MS, along with associated
+cleanroom and facility buildouts required for installation and operation of the equipment. This
+will be completed within one year. In parallel with facility buildout, the project may conduct
+initial bench scale testing to confirm membrane performance, cell chemistry, and flow
+
+
+
+
+                                                                                              8 of 15
+       ROWOW LLC​     irowow@gmail.com +1 (407) 724-8687
+
+
+configurations.
+         Budget Period 2 (Prototype Development and TRL Advancement): The project will
+advance SEM TECH from TRL 5 to TRL 6, by validating a pilot scale system in relevant
+environments. Primary efforts will focus on procuring or manufacturing a continuous vacuum
+filtration drum to enable a prototype scale testing for continuous operation. Fabrication of the
+filtration drum will be performed in house or through qualified subcontractors, based on
+schedule and capability. Prototype testing on ores and representative materials will be
+conducted to evaluate technical performance and economic feasibility, resulting in detailed
+technical and cost analyses to inform potential mining industry deployment. This will include
+coordination with DOE and partner institutions for validation of produced materials for a third
+party review of SEM TECH analytical results.
+         Budget Period 3 (Pilot Demonstration and Scale-Up Preparation): The final period will
+advance SEM TECH to TRL 7 or higher through integrated demonstration within the Continuous
+Mining Unit (CMU) and Closed-Loop Refining Unit (CRU) in a relevant operational environment.
+The scope will emphasize scale up planning and costs for manufacturing the electrolysis units
+and associated components, including electrodes, ion-exchange membranes, and required
+auxiliary equipment (including filtration equipment, as decided from prior period). Contingent on
+successful results from Budget Periods 1 and 2, Rowow will validate, optimize, and document
+SEM TECH performance under conditions representative of real world applications.
+
+        WBS Structure
+        Budget Period 1 (Year 1): Facility Acquisition, Setup, and Foundational Readiness
+Purpose: Establish an industrially zoned, permitted operations facility, implement safety controls,
+and stand up analytical capability (WD-XRF+ICP-MS) to support SEM TECH verification.
+1.0 Budget Period 1 - Facility & Laboratory Readiness
+        Task 1.1 - Project management
+1.1.1 Project Management Plan.
+1.1.2 Technology Maturation Plan.
+1.1.3 Project Summary Data Sheet.
+1.1.4 Data Management and Sharing Plan.
+1.1.5 Critical Minerals Collaborative Participation.
+        Task 1.2 - Facility identification, acquisition, and critical mineral material planning.
+1.2.1 Identify potential locations.
+1.2.2 Execute lease/purchase.
+1.2.3 Plan for material transportation.
+Go/No-Go #1: Facility secured within schedule/budget and suitable for long term objectives.
+        Task 1.3 - Facility buildout, safety systems, and operational commissioning
+1.3.1 Safety controls.
+1.3.2 Commission work areas.
+        Task 1.4 - Analytical laboratory buildout and instrumentation commissioning
+1.4.1 Procure analytical equipment.
+1.4.2 Validate analytical equipment.
+        Task 1.5 - Initial bench scale confirmation and baseline operating envelope
+1.5.1 Bench scale membrane performance.
+
+
+
+                                                                                           9 of 15
+      ROWOW LLC​    irowow@gmail.com +1 (407) 724-8687
+
+
+1.5.2 Define baseline KPIs and test protocols.
+        Budget Period 2 (Year 2): Prototype Development & TRL Advancement (TRL 5 > TRL 6)
+Purpose: Build the prototype scale continuous operation capability (including a continuous
+vacuum filtration drum), then demonstrate and validate stable closed-loop performance,
+recovery efficiency, and waste/byproduct outcomes.
+2.0 Budget Period 2 - Prototype Development & TRL 6 Validation
+        Task 2.1 - Prototype engineering
+2.1.1 Develop prototype architecture for CMU/CRU operation.
+2.1.2 Establish test matrix and third-party validation.
+        Task 2.2 - Continuous vacuum filtration drum fabrication/procurement
+2.2.1 Procure or manufacture a continuous vacuum filtration.
+2.2.2 Integrate filtration with CMU.
+        Task 2.3 - Continuous operation: chemical losses and ion buildup control
+2.3.1 Quantify chemical losses/solution.
+2.3.2 Develop required solutions to losses.
+Go/No-Go #2A: Demonstrate continuous operation with minimal intervention to maintain
+solution chemistry.
+        Task 2.4 - Recovery efficiency testing and independent validation
+2.4.1 Use ICP-MS and WDXRF to quantify overall recovery.
+Go/No-Go #2B: For target minerals, outperform existing methods via higher recovery and/or
+economically viable processing of lower-grade feedstocks at competitive cost.
+        Task 2.5 - Byproduct and waste identification
+2.5.1 Identify byproducts generated and solutions.
+Go/No-Go #2C: If byproducts cannot be utilized, confirm no toxic/hazardous liquid/solid
+residues requiring offsite disposal beyond standard compliant handling.
+        Task 2.6 - TRL 6 evidence package and prototype performance report
+2.6.1 Produce documented test results supporting TRL 6 readiness.
+        Budget Period 3 (Year 3): Pilot Demonstration & Scale Up (TRL 6 → TRL 7+)
+Purpose: Demonstrate closed loop CMU+CRU prototype operation in a relevant environment
+with stable process control. Validate durability and economics. Produce a scale up
+manufacturing plan for SEM TECH and its components.
+3.0 Budget Period 3 - Pilot Demonstration, Durability, and Scale-Up
+        Task 3.1 - Integrated CMU+CRU pilot prototype build and commissioning
+3.1.1 Build a full prototype configuration supporting TRL 7.
+​       Task 3.2 - Pilot-scale testing in relevant operational environments
+3.2.1 Conduct sustained runs.
+3.2.2 Process multiple feedstocks.
+Go/No-Go #3A: Demonstrate integrated CMU+CRU operation in a relevant environment for
+sustained run with stable process control.
+​       Task 3.3 - Component durability, maintenance intervals, and operating economics
+3.3.1 Validate service life and replacement intervals.
+3.3.2 Perform cost/benefit analysis.
+Go/No-Go #3B: Demonstrate projected operating economics are profitable over expected
+component lifetimes/replacement cycles.
+
+
+
+
+                                                                                  10 of 15
+         ROWOW LLC​        irowow@gmail.com +1 (407) 724-8687
+
+
+​       Task 3.4 - Manufacturing scale-up plan and cost model
+3.4.1 Develop a bottoms-up manufacturing cost model.
+Go/No-Go #3C: Show credible path to scaled production costs supporting target unit production
+at scale.
+​       Task 3.5 - Final reporting and end-of-project goal achievement
+3.5.1 Finalize complete data package.
+3.5.2 Deliver TRL 7+ final report.
+
+        End-of-Project SMART Goals
+By the end of the project period, Rowow will achieve SEM TECH at TRL 7 or higher by
+demonstrating SEM TECH utilization in the Continuous Mining Unit’s (CMU) and Continuous
+Refining Unit’s (CRU) operation.
+    1.​ Pilot demonstration evidence (TRL 7+)
+            ●​ Complete an integrated CMU+CRU pilot run in a relevant environment showing
+                stable process control (flow and electrochemical operating parameters) and
+                repeatable operation documented in test reports.
+    2.​ Independent validation of recovery performance
+            ●​ Provide product/feed analytical results using ICP-MS and WD-XRF and confirm
+                key results via a DOE designated third-party laboratory, establishing defensible
+                recovery calculations for target materials.
+    3.​ Closed-loop environmental outcome
+            ●​ Characterize byproducts and demonstrate either viable co-products or confirm
+                that processing does not create toxic wastes requiring offsite disposal beyond
+                compliant handling, consistent with the closed-loop objective.
+    4.​ Durability + economics + scale-up readiness
+            ●​ Validate service life expectations for serviceable/critical components. Complete a
+                cost-benefit analysis demonstrating a profitable end product production pathway
+                versus consumables and operating costs. Deliver a manufacturing scale up
+                plan/cost model for electrolysis units and key components.
+
+Project Gantt Chart
+
+Start     7/1/2026                                                    Year 1      Year 2      Year 3
+Length    12 Quarters
+    ID    Task                             Start       End     Days Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4
+1         BP1 - Facility                7/1/26     6/30/27    365
+
+1.1       Project management            7/1/26     7/31/26    31
+1.2       Facility identification,      7/1/26     9/30/26    92
+          material acquisition plans
+GNG-1     ◆ Go/No-Go #1                 9/15/26    9/15/26    1
+1.3       Facility buildout, safety &   8/1/26     12/30/26   152
+          commissioning
+
+
+
+
+                                                                                                 11 of 15
+         ROWOW LLC​     irowow@gmail.com +1 (407) 724-8687
+
+
+1.4       Lab buildout & instrument   9/1/26    3/30/27    211
+          commissioning
+
+
+1.5       Bench scale confirmation    10/1/26   6/30/27    273
+2         BP 2 - TRL 6                7/1/27    6/30/28    366
+2.1       Prototype engineering       7/1/27    9/30/27    92
+2.2       Continuous vacuum           8/1/27    12/30/27   152
+          filtration drum
+2.3       Continuous operation        10/1/27   3/30/28    182
+GNG-2A    ◆ Go/No-Go #2A              3/15/28   3/15/28    1
+2.4       Efficiency testing &        12/1/27   5/30/28    182
+          independent validation
+GNG-2B    ◆ Go/No-Go #2B              5/15/28   5/15/28    1
+2.5       Byproduct & waste           12/1/27   4/30/28    152
+          identification
+GNG-2C    ◆ Go/No-Go #2C              4/15/28   4/15/28    1
+2.6       TRL 6 Report                4/1/28    6/30/28    91
+3         BP 3 - TRL 7+               7/1/28    6/30/29    365
+3.1       Pilot scale built           7/1/28    10/30/28   122
+3.2       Pilot scale testing         10/1/28   4/30/29    212
+GNG-3A    ◆ Go/No-Go #3A              4/15/29   4/15/29    1
+3.3       Components economics        12/1/28   5/30/29    181
+GNG-3B    ◆ Go/No-Go #3B              5/15/29   5/15/29    1
+3.4       Manufacturing scale         1/1/29    6/30/29    181
+GNG-3C    ◆ Go/No-Go #3C              6/15/29   6/15/29    1
+ 3.5        TRL 7+ package             5/1/29    6/30/29    61
+
+
+
+         Project Management
+Overall approach
+Rowow LLC will manage the work through a dedicated Project Team. The overall management
+framework is organized into three performance periods, each with defined tasks, subtasks,
+activities, milestones, and deliverables. Active communication and outreach to the DOE would
+be performed to best optimize and update the project’s performance and planning.
+
+Roles of each project team member
+The project will be managed by the following Project Team: ​
+Project Director (Mr. Robert Karas): Holds direct responsibility for overall project management,
+fundamental research, material processing, and completion of technical deliverables. Mr. Karas
+will lead execution across the workplan, maintain alignment to performance objectives, and
+ensure technical readiness at each stage gate.​
+
+
+
+
+                                                                                         12 of 15
+       ROWOW LLC​       irowow@gmail.com +1 (407) 724-8687
+
+
+Critical handoffs and interdependencies
+The project will actively manage key interdependencies that can affect schedule, cost, and
+readiness.​
+Analytical capability & performance verification: Analytical characterization (XRF and ICP-MS)
+would be carefully managed with third party DOE designated labs to ensure material processing
+can meet project deadlines.
+Prototype testing outcomes/scale-up decisions: Full scale prototype testing results will inform
+project team members of the technology’s risk posture, resource allocation, and readiness to
+determine the proper path forward to integrate SEM TECH into industries.
+
+Technical and management aspects of the management plan
+Rowow LLC will manage the project using systems and controls aligned to DOE expectations.​
+Work planning and tracking: A methodical WBS driven approach to track scope, schedule, and
+deliverables by performance period to meet milestones and Go/No-Go decision points.​
+Financial and project management practices: Routine budget monitoring and cost tracking
+aligned to tasks and milestones, with attention to long lead time items.
+
+Approach to project risk management
+The project utilizes a cautious budget strategy, particularly in Performance Period 2, to address
+uncertainty and mitigate risks associated with unknown variables and costs that may arise
+during full scale prototype testing. The use of phased execution and Go/No-Go decision points
+limits exposure by preventing premature commitment to downstream activities before
+performance and readiness are verified. A network of potential candidates eliminates risks
+regarding a sufficient workforce.
+Approach to permits, approvals, and compliance
+Meeting with local government agencies early in the period of performance. Securing final
+permits for the selected facility. Initiating insurance and utility setup required for operations.
+Completing safety certification activities. Conducting an internal Environmental, Health, and
+Safety (EHS) review to confirm operational compliance and safe work practices prior to full
+operation.
+                                                Milestone table
+
+ID      Milestone                                                  Target Date
+
+1.1     Project formation and team structured                      7/31/26
+
+1.2     SMART: Facility required for project objectives acquired   9/30/26
+
+1.3     Facility buildout and permitting                           12/30/26
+
+1.4     Lab buildout and instrument commissioning                  3/30/27
+
+2.1     Prototype engineered and built                             9/30/27
+
+2.2     SMART: Efficiency testing and independent validation       5/30/28
+
+2.3     SMART: Byproduct and waste identification                  4/30/28
+
+
+
+
+                                                                                          13 of 15
+       ROWOW LLC​       irowow@gmail.com +1 (407) 724-8687
+
+
+2.4     SMART: TRL 6 achievement                                 6/30/28
+
+3.1     Pilot scale engineered and built                         10/30/28
+
+3.2     SMART: Demonstrate processing in relevant environment    4/30/29
+
+3.3     SMART: Component durability/maintenance analysis         5/30/29
+
+3.4     SMART: TRL 7+ achievement                                6/30/29
+
+Project changes and how they will be handled
+Project changes will be evaluated through the project’s workplan and decision gates. Any
+change affecting scope, sequencing, cost, or deliverables will be evaluated and communicated
+with the DOE for impacts. Changes would prioritize on fitting to the overall project objectives.
+Quality Assurance and Quality Control approach
+The project will use analytical characterization (XRF and ICP-MS) to validate outputs and identify
+issues early. Careful sampling preparation and tracking through unique identifiers to maintain
+accuracy and traceability with storage in a secured location for more than 1 year after project
+completion.
+Communications among project team members
+Communications will be maintained through routine meetings between the Project Director,
+Business Administrator, and all respected company employees and project members supported
+by documented planning and tracking against the workplan. Communications practices will
+include regular check-ins tied to task progress, milestone readiness, and timely documentation
+of decisions, particularly at Go/No-Go points to ensure alignment, accountability, and continuity
+across all performance periods.
+
+Technical Qualifications and Resources
+        Robert Karas serves as Project Director and brings a foundation in construction
+management, with prior roles spanning field engineer, foreman, and project manager. He
+previously led larger-scale infrastructure work, including management construction of the
+26-story “Heron” apartment project in Tampa, where he oversaw field engineering, identified
+and resolved issues proactively, managed scheduling and material estimating, handled layout
+and planning, and produced a 3D model to support downstream planning and documentation.
+His work also involved frequent coordination with subcontractors and other firms while meeting
+architectural requirements, supported by detailed progress logs and multi-year scheduling to
+keep scope and deadlines on track. He later worked as a full-time drafter and project manager,
+leading estimating and bid work and producing build-ready blueprints and instructions and also
+developed hands-on experience modifying and repairing CNC machines, building expertise in
+advanced manufacturing and automation. Since leaving construction in January 2022, he has
+supported himself through farming while pursuing technical research projects documented
+publicly, including heavy equipment rebuilds, CNC builds, and work that progressed from redox
+flow batteries into chemistry, ion-exchange electrolysis, and mining applications.
+
+
+
+
+                                                                                          14 of 15
+        ROWOW LLC​      irowow@gmail.com +1 (407) 724-8687
+
+
+         SEM TECH is currently being developed at Rowow LLC’s most recent facility: a
+1,400-square-foot lab built by Robert in 2025 and designed specifically around SEM TECH’s
+needs. The lab includes a CNC router table for electrolysis-cell manufacturing, a chemistry lab
+for sample prep and experimentation, a Rigaku NEX DE XRF spectrometer, ceramic kilns, a 12
+kW induction heater, and related safety infrastructure (fumehoods/etc). While the space has
+enabled early core R&D, it is not large enough to support the full scope of planned work.
+Accordingly, a first-year priority is relocating to a larger facility, ideally an industrial site (already
+known/chosen) near rail access to support high-volume feedstock transport and expanded
+testing of incoming ore, as well as concentrate processing via CRU systems and CMU units
+deployed at mine sites. Robert’s experience designing and constructing the existing lab,
+combined with his construction background, provides practical expertise for planning and
+building out a new facility aligned with the project’s objectives. The R&D completed in the
+current lab has also clarified the operational limits and expansion requirements, enabling more
+realistic planning toward project goals. Over the past two years, Rowow LLC has iterated on
+multiple electrolysis unit designs (CMU and CRU) and worked with several client mines to
+evaluate workflow integration and commercialization pathways. This includes on-site
+coordination, ore transport logistics, extraction and concentration of critical minerals,
+concentrate refining, and engagement with commercial refining partners, collectively informing
+a detailed understanding of industry needs and constraints. Robert has worked full-time on the
+project for the past two years and intends to continue at that level. Richard has supported the
+effort since the beginning (including outreach and early sample development) and plans to
+transition into a full-time role to provide administrative and business support.
+Finally, Rowow LLC intends to open-source the technology to accelerate adoption and ensure
+U.S. industries can implement SEM TECH in a highly optimized and rapid manner for critical
+mineral production. This would be supported through transparent documentation of
+progress/setbacks and broad dissemination through public channels such as websites and social
+media, helping shorten the learning curve and enabling commercial integration as project
+milestones are achieved.
+
+
+
+
+                                                                                                 15 of 15
+
