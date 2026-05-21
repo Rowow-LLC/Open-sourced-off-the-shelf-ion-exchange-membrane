@@ -1,4 +1,4 @@
-       ROWOW LLC​     irowow@gmail.com +1 (407) 724-8687
+       ROWOW LLC​     [REDACTED] [REDACTED]
 
 
 Cover Page
@@ -18,7 +18,7 @@ our award from DoE.
 Technical and Business Point of Contact: Mr. Robert Karas, Rowow, LLC (OWNER) will serve
 as Project Director and will be the POC for all questions and issues concerning this
 submission and during the performance of work under the award. He may be reached
-directly by email at irowow@gmail.com and by phone at (407) 724-8687.
+directly by email at [REDACTED] and by phone at [REDACTED].
 The Project Team: Mr. Robert Karas, Project Director, will be directly responsible for overall
 project management, primarily focusing on the fundamental research, material processing,
 and deliverables under the award.
@@ -45,12 +45,12 @@ Statement Regarding AI Use: AI assisted in formatting and editing to match DOE v
 
 
                                                                                            1 of 15
-       ROWOW LLC​     irowow@gmail.com +1 (407) 724-8687
+       ROWOW LLC​     [REDACTED] [REDACTED]
 
 
 Project Overview Background
 The project began in November 2023, leveraging prior work on low-cost ion exchange
-membranes originally developed for redox flow battery applications. After Richard Ebanks
+membranes originally developed for redox flow battery applications. After [REDACTED]
 introduced gold-bearing ore for evaluation, initial bench-scale testing used aqua regia to digest
 the precious metals. Recovering metals through traditional reduction and precipitation proved
 difficult and posed issues. Electrolysis enabled the successful plating of gold powder, but the
@@ -97,7 +97,7 @@ SEM TECH. The remaining 3 elements (Silicon, Titanium, and Tungsten), can be ext
 
 
                                                                                            2 of 15
-       ROWOW LLC​     irowow@gmail.com +1 (407) 724-8687
+       ROWOW LLC​     [REDACTED] [REDACTED]
 
 
 SEM TECH utilizing the same components in the Continuous Mining Unit (CMU), only requiring a
@@ -148,7 +148,7 @@ An award from the U.S. Department of Energy would provide a material acceleratio
 
 
                                                                                            3 of 15
-        ROWOW LLC​        irowow@gmail.com +1 (407) 724-8687
+        ROWOW LLC​        [REDACTED] [REDACTED]
 
 
 Rowow’s development and validation pathway. The project is positioned at a key inflection
@@ -199,7 +199,7 @@ Federal Total
 
 
                                                                                                4 of 15
-          ROWOW LLC​      irowow@gmail.com +1 (407) 724-8687
+          ROWOW LLC​      [REDACTED] [REDACTED]
 
 
 Total                                               $7,644,424    $2,265,000   $2,890,000   $12,799,424
@@ -253,7 +253,7 @@ consumable usage and eliminates generation of toxic waste streams.
 
 
                                                                                                   5 of 15
-           ROWOW LLC​      irowow@gmail.com +1 (407) 724-8687
+           ROWOW LLC​      [REDACTED] [REDACTED]
 
 
          Feasibility
@@ -305,7 +305,7 @@ under the proposed project scope.
 
 
                                                                                           6 of 15
-       ROWOW LLC​      irowow@gmail.com +1 (407) 724-8687
+       ROWOW LLC​      [REDACTED] [REDACTED]
 
 
 50-300 ft² to process one ton per day with the vacuum filtration drum representing the largest
@@ -356,7 +356,7 @@ through closed loop electrochemical processing.
 
 
                                                                                              7 of 15
-       ROWOW LLC​      irowow@gmail.com +1 (407) 724-8687
+       ROWOW LLC​      [REDACTED] [REDACTED]
 
 
 Workplan
@@ -407,7 +407,7 @@ initial bench scale testing to confirm membrane performance, cell chemistry, and
 
 
                                                                                               8 of 15
-       ROWOW LLC​     irowow@gmail.com +1 (407) 724-8687
+       ROWOW LLC​     [REDACTED] [REDACTED]
 
 
 configurations.
@@ -458,7 +458,7 @@ Go/No-Go #1: Facility secured within schedule/budget and suitable for long term 
 
 
                                                                                            9 of 15
-      ROWOW LLC​    irowow@gmail.com +1 (407) 724-8687
+      ROWOW LLC​    [REDACTED] [REDACTED]
 
 
 1.5.2 Define baseline KPIs and test protocols.
@@ -510,7 +510,7 @@ component lifetimes/replacement cycles.
 
 
                                                                                   10 of 15
-         ROWOW LLC​        irowow@gmail.com +1 (407) 724-8687
+         ROWOW LLC​        [REDACTED] [REDACTED]
 
 
 ​       Task 3.4 - Manufacturing scale-up plan and cost model
@@ -561,7 +561,7 @@ GNG-1     ◆ Go/No-Go #1                 9/15/26    9/15/26    1
 
 
                                                                                                  11 of 15
-         ROWOW LLC​     irowow@gmail.com +1 (407) 724-8687
+         ROWOW LLC​     [REDACTED] [REDACTED]
 
 
 1.4       Lab buildout & instrument   9/1/26    3/30/27    211
@@ -612,7 +612,7 @@ ensure technical readiness at each stage gate.​
 
 
                                                                                          12 of 15
-       ROWOW LLC​       irowow@gmail.com +1 (407) 724-8687
+       ROWOW LLC​       [REDACTED] [REDACTED]
 
 
 Critical handoffs and interdependencies
@@ -667,7 +667,7 @@ ID      Milestone                                                  Target Date
 
 
                                                                                           13 of 15
-       ROWOW LLC​       irowow@gmail.com +1 (407) 724-8687
+       ROWOW LLC​       [REDACTED] [REDACTED]
 
 
 2.4     SMART: TRL 6 achievement                                 6/30/28
@@ -718,7 +718,7 @@ flow batteries into chemistry, ion-exchange electrolysis, and mining application
 
 
                                                                                           14 of 15
-        ROWOW LLC​      irowow@gmail.com +1 (407) 724-8687
+        ROWOW LLC​      [REDACTED] [REDACTED]
 
 
          SEM TECH is currently being developed at Rowow LLC’s most recent facility: a
@@ -740,7 +740,7 @@ evaluate workflow integration and commercialization pathways. This includes on-s
 coordination, ore transport logistics, extraction and concentration of critical minerals,
 concentrate refining, and engagement with commercial refining partners, collectively informing
 a detailed understanding of industry needs and constraints. Robert has worked full-time on the
-project for the past two years and intends to continue at that level. Richard has supported the
+project for the past two years and intends to continue at that level. [REDACTED] has supported the
 effort since the beginning (including outreach and early sample development) and plans to
 transition into a full-time role to provide administrative and business support.
 Finally, Rowow LLC intends to open-source the technology to accelerate adoption and ensure
