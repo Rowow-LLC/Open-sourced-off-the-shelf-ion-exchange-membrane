@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/Rowow1/Open-sourced-off-the-shelf-ion-exchange-membrane?style=social)](https://github.com/Rowow1/Open-sourced-off-the-shelf-ion-exchange-membrane/stargazers)
 [![Forks](https://img.shields.io/github/forks/Rowow1/Open-sourced-off-the-shelf-ion-exchange-membrane?style=social)](https://github.com/Rowow1/Open-sourced-off-the-shelf-ion-exchange-membrane/network/members)
 
-**[🌐 rowow.net](https://rowow.net) · [▶️ YouTube](https://www.youtube.com/@Rowow) · [❤️ Patreon](https://www.patreon.com/Rowow) · [💛 GoFundMe](https://gofundme.com)**
+**[🌐 rowow.net](https://rowow.net) · [▶️ YouTube](https://www.youtube.com/@Rowow) · [❤️ Patreon](https://www.patreon.com/cw/rowow) · [💛 GoFundMe](https://www.gofundme.com/f/SEMTECH)**
 
 ---
 
@@ -59,9 +59,9 @@ The United States currently has very limited domestic capacity for critical mine
 
 Full step-by-step video guides are available on the [Rowow YouTube channel](https://www.youtube.com/@Rowow):
 
-- 📹 [**How to make CATION exchange membrane CHEAP AND EASY (less than 2 minutes)**](https://www.youtube.com/@Rowow/videos)
-- 📹 [**DIY Low-Cost Ion Exchange Membrane: Full Build Guide & Open Source Dedication**](https://www.youtube.com/@Rowow/videos)
-- 📹 [**How to build your own electrolysis cells for cheap**](https://www.youtube.com/@Rowow/videos)
+- 📹 [**How to make CATION exchange membrane CHEAP AND EASY (less than 2 minutes)**](https://www.youtube.com/watch?v=40wbNGVR3Xw)
+- 📹 [**DIY Low-Cost Ion Exchange Membrane: Full Build Guide & Open Source Dedication**](https://www.youtube.com/watch?v=c3tNXDlgE2M)
+- 📹 [**How to build your own electrolysis cells for cheap**](https://www.youtube.com/watch?v=vx_uQVsYAuo)
 - 📹 [**Weekly Q&A about salt electro mining and ion exchange membrane projects**](https://www.youtube.com/@Rowow/videos)
 
 For the full manufacturing process, refer to `Manufacturing-Process-Flowchart.pdf` and `Rowow-LLC-Technical-Volume.pdf` in this repository.
@@ -89,8 +89,8 @@ Learn more at **[rowow.net](https://rowow.net)**.
 
 This is open-source research conducted by a small, independent team based in Florida, USA. If this work is useful to you, please consider supporting continued development:
 
-- ❤️ **[Become a Patron on Patreon](https://www.patreon.com/Rowow)** — get exclusive updates, behind-the-scenes content, and early research previews
-- 💛 **[Support on GoFundMe](https://gofundme.com)** — every contribution helps fund equipment, testing, and open-source documentation
+- ❤️ **[Become a Patron on Patreon](https://www.patreon.com/cw/rowow)** — get exclusive updates, behind-the-scenes content, and early research previews
+- 💛 **[Support on GoFundMe](https://www.gofundme.com/f/SEMTECH)** — every contribution helps fund equipment, testing, and open-source documentation
 - ⭐ **Star this repository** to help others discover it
 - 🍴 **Fork and build** — share your results with the community
 
@@ -117,4 +117,4 @@ This work is dedicated to the public domain under the [CC0 1.0 Universal](LICENS
 | 🌐 Website | [rowow.net](https://rowow.net) |
 | ▶️ YouTube | [@Rowow](https://www.youtube.com/@Rowow) |
 | 🐙 GitHub | [Rowow1](https://github.com/Rowow1) |
-| ❤️ Patreon | [patreon.com/Rowow](https://www.patreon.com/Rowow) |
+| ❤️ Patreon | [patreon.com/cw/rowow](https://www.patreon.com/cw/rowow) |
