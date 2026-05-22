@@ -8,7 +8,7 @@ Thank you for your interest in contributing! This is a community-driven open-sou
 
 ### 🔬 Share Your Build Results
 Did you build this membrane? We'd love to hear about it! Open an issue with the label **"Build Report"** and include:
-- Your material sources and any substitutions you made
+- Your material sources and any substitutions you madeh
 - Photos or videos of your membrane and setup
 - Performance observations (conductivity, selectivity, durability)
 - Any problems you encountered and how you solved them
@@ -75,7 +75,7 @@ Found an error in the technical documentation, patent, or process? Open an issue
 
 - 🌐 Website: [rowow.net](https://rowow.net)
 - ▶️ YouTube: [@Rowow](https://www.youtube.com/@Rowow) — regular build updates and tutorials
-- ❤️ Patreon: [patreon.com/Rowow](https://www.patreon.com/Rowow)
+- ❤️ Patreon: [patreon.com/cw/rowow](https://www.patreon.com/cw/rowow)
 - 🐙 GitHub: [Rowow1](https://github.com/Rowow1)
 
 ---
