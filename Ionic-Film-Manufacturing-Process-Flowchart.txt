@@ -1,0 +1,115 @@
+IONIC FILM MANUFACTURING PROCESS FLOWCHART
+Salt Electro Mining Technology (SEM TECH)
+Rowow LLC — 2026
+
+NOTE: Plain-text companion to Ionic-Film-Manufacturing-Process-Flowchart.docx
+For the full formatted flowchart with diagrams, open the .docx file.
+
+================================================================================
+OVERVIEW
+================================================================================
+
+This document outlines the step-by-step manufacturing process for fabricating a
+low-cost, homogeneous ion exchange membrane (ionic film) from off-the-shelf
+precursor materials. No specialized industrial equipment required.
+
+The ionic film serves as the selective ion transport layer in Rowow LLC's
+closed-loop electrochemical precious metal recovery system (SEM TECH).
+
+================================================================================
+MATERIALS REQUIRED
+================================================================================
+
+Primary Materials:
+  - Ion exchange water softener resin (sulfonated polystyrene beads)
+  - PVC cement (contains THF + PVC polymer in solvent)
+  - Methylene blue dye (optional — for cation selectivity testing)
+
+Equipment:
+  - Mortar and pestle (or blender/grinder)
+  - Flat glass surface or silicone mat
+  - Spatula or palette knife
+  - Safety: nitrile gloves, eye protection, ventilation
+
+================================================================================
+MANUFACTURING STEPS
+================================================================================
+
+PHASE 1 — RESIN PREPARATION
+Step 1: Obtain granular cation exchange resin (water softener type)
+Step 2: Dry resin — air-dry 24-48h or oven at 60C for 2-4h
+Step 3: Pulverize to fine powder (target < 200 micron particle size)
+
+PHASE 2 — BINDER MIXING
+Step 4: Use PVC cement as-is (work in ventilated area — THF fumes)
+Step 5: Mix resin powder + PVC cement at ~70% resin : 30% cement (by volume)
+        until a thick, homogeneous paste forms
+Step 6: Adjust consistency — too thick: add cement; too thin: add resin
+
+PHASE 3 — FILM CASTING
+Step 7: Place silicone mat or glass on level surface
+Step 8: Spread paste to uniform 0.5–2mm thickness
+Step 9: Allow THF solvent to evaporate — do not disturb for 30-60 min
+
+PHASE 4 — CURING
+Step 10: Cure 24h at room temperature (or 4-6h at 40-50C)
+Step 11: Peel film, inspect for cracks/bubbles, trim edges
+Step 12: Soak in DI water or 0.1M NaCl for 1-4h to hydrate ion groups
+
+PHASE 5 — QUALITY TESTING
+Step 13: Visual inspection — uniform, flexible, no large defects
+Step 14: Conductivity test — measure ionic conductivity vs. control
+Step 15: Selectivity test — methylene blue dye test (cation membrane blocks dye)
+
+================================================================================
+ANION EXCHANGE MEMBRANE VARIANT
+================================================================================
+
+Substitute anion exchange resin (quaternary ammonium type) for cation resin.
+Same PVC cement binder and casting process applies.
+
+================================================================================
+TROUBLESHOOTING
+================================================================================
+
+Cracks during drying   -> Increase PVC cement ratio; dry more slowly
+Brittle film           -> Add more PVC cement; ensure full hydration
+Poor conductivity      -> Increase resin content; reduce thickness; check hydration
+Film sticks to surface -> Use release agent; allow full cure before peeling
+
+================================================================================
+SAFETY NOTES
+================================================================================
+
+- THF (in PVC cement) is highly flammable. Keep away from flames.
+- Work in well-ventilated area or use respiratory protection.
+- Wear nitrile gloves (THF penetrates latex).
+- Dispose of THF waste per local regulations.
+- Resin dust: avoid inhalation.
+
+================================================================================
+RESOURCES
+================================================================================
+
+Full technical docs:  Rowow-LLC-Technical-Volume.pdf
+Membrane diagrams:    Ionic-Film-Manufacturing-Process-Flowchart.docx
+Patent filing:        Patent.pdf
+
+YouTube @Rowow:
+  CATION membrane build: https://www.youtube.com/watch?v=40wbNGVR3Xw
+  Full build guide:       https://www.youtube.com/watch?v=c3tNXDlgE2M
+  Electrolysis cells:     https://www.youtube.com/watch?v=vx_uQVsYAuo
+
+Website:   https://rowow.net
+Discord:   https://discord.gg/e7CmU2ekky
+GitHub:    https://github.com/Rowow1
+
+================================================================================
+LICENSE
+================================================================================
+
+CC0 1.0 Universal — Public Domain Dedication
+Free to use, copy, modify, distribute without restriction.
+See LICENSE file for full terms.
+
+Rowow LLC — Florida, USA — https://rowow.net
