@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/Rowow1/Open-sourced-off-the-shelf-ion-exchange-membrane?style=social)](https://github.com/Rowow1/Open-sourced-off-the-shelf-ion-exchange-membrane/stargazers)
 [![Forks](https://img.shields.io/github/forks/Rowow1/Open-sourced-off-the-shelf-ion-exchange-membrane?style=social)](https://github.com/Rowow1/Open-sourced-off-the-shelf-ion-exchange-membrane/network/members)
 
-**[🌐 rowow.net](https://rowow.net) · [▶️ YouTube](https://www.youtube.com/@Rowow) · [❤️ Patreon](https://www.patreon.com/cw/rowow) · [💛 GoFundMe](https://www.gofundme.com/f/SEMTECH)**
+**[🌐 rowow.net](https://rowow.net) · [▶️ YouTube](https://www.youtube.com/@Rowow) · [❤️ Patreon](https://www.patreon.com/cw/rowow) · [💛 GoFundMe](https://www.gofundme.com/f/SEMTECH) · [💬 Discord](https://discord.gg/e7CmU2ekky)**
 
 ---
 
@@ -45,11 +45,11 @@ The United States currently has very limited domestic capacity for critical mine
 | File | Description |
 |------|-------------|
 | `Ion-Exchange-Membrane-Diagram.pdf` | Visual diagram of the membrane structure and ion transport mechanism |
-| `Manufacturing-Process-Flowchart.pdf` | Step-by-step manufacturing process flow chart |
+| `Ionic-Film-Manufacturing-Process-Flowchart.docx` | Step-by-step manufacturing process flow chart |
 | `Patent.pdf` | Full patent filing for the membrane technology (PDF) |
 | `Patent-Application.docx` | Editable patent application document |
 | `Rowow-LLC-Technical-Volume.pdf` | Complete technical volume with formulations, procedures, and results |
-| `SEM-Analysis-Results.pdf` | Scanning Electron Microscopy (SEM) analysis of membrane microstructure |
+| `SEM TECH.pdf` | Scanning Electron Microscopy (SEM) analysis and technical overview |
 | `SEM-Tech-Presentation.pdf` | Technical presentation on SEM characterization methods and findings |
 | `LICENSE` | CC0-1.0 Universal Public Domain Dedication — fully open source |
 
@@ -64,7 +64,7 @@ Full step-by-step video guides are available on the [Rowow YouTube channel](http
 - 📹 [**How to build your own electrolysis cells for cheap**](https://www.youtube.com/watch?v=vx_uQVsYAuo)
 - 📹 [**Weekly Q&A about salt electro mining and ion exchange membrane projects**](https://www.youtube.com/@Rowow/videos)
 
-For the full manufacturing process, refer to `Manufacturing-Process-Flowchart.pdf` and `Rowow-LLC-Technical-Volume.pdf` in this repository.
+For the full manufacturing process, refer to `Ionic-Film-Manufacturing-Process-Flowchart.docx` and `Rowow-LLC-Technical-Volume.pdf` in this repository.
 
 ### Materials Overview
 
@@ -91,7 +91,7 @@ This is open-source research conducted by a small, independent team based in Flo
 
 - ❤️ **[Become a Patron on Patreon](https://www.patreon.com/cw/rowow)** — get exclusive updates, behind-the-scenes content, and early research previews
 - 💛 **[Support on GoFundMe](https://www.gofundme.com/f/SEMTECH)** — every contribution helps fund equipment, testing, and open-source documentation
-- ⭐ **Star this repository** to help others discover it
+- 💬 **[Join our Discord](https://discord.gg/e7CmU2ekky)** — connect with the community, ask questions, and share builds- ⭐ **Star this repository** to help others discover it
 - 🍴 **Fork and build** — share your results with the community
 
 ---
@@ -117,4 +117,4 @@ This work is dedicated to the public domain under the [CC0 1.0 Universal](LICENS
 | 🌐 Website | [rowow.net](https://rowow.net) |
 | ▶️ YouTube | [@Rowow](https://www.youtube.com/@Rowow) |
 | 🐙 GitHub | [Rowow1](https://github.com/Rowow1) |
-| ❤️ Patreon | [patreon.com/cw/rowow](https://www.patreon.com/cw/rowow) |
+| ❤️ Patreon | [patreon.com/cw/rowow](https://www.patreon.com/cw/rowow) || 💬 Discord | [discord.gg/e7CmU2ekky](https://discord.gg/e7CmU2ekky) |
