@@ -4,7 +4,7 @@ Thank you for your interest in contributing! This is a community-driven open-sou
 
 ---
 
-## Ways to Contribute
+> 💬 **New to the project? Join our [Discord community](https://discord.gg/e7CmU2ekky)** to introduce yourself, ask questions, and connect with other builders!## Ways to Contribute
 
 ### 🔬 Share Your Build Results
 Did you build this membrane? We'd love to hear about it! Open an issue with the label **"Build Report"** and include:
