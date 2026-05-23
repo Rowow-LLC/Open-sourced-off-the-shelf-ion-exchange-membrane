@@ -50,7 +50,7 @@ The United States currently has very limited domestic capacity for critical mine
 | `Patent-Application.docx` | Editable patent application document |
 | `Rowow-LLC-Technical-Volume.pdf` | Complete technical volume with formulations, procedures, and results |
 | `SEM TECH.pdf` | Scanning Electron Microscopy (SEM) analysis and technical overview |
-| `SEM-Tech-Presentation.pdf` | Technical presentation on SEM characterization methods and findings |
+| `SEM-Tech-Presentation.pdf` | Technical presentation on SEM characterization methods and findings |h
 | `LICENSE` | CC0-1.0 Universal Public Domain Dedication — fully open source |
 
 ---
@@ -62,7 +62,7 @@ Full step-by-step video guides are available on the [Rowow YouTube channel](http
 - 📹 [**How to make CATION exchange membrane CHEAP AND EASY (less than 2 minutes)**](https://www.youtube.com/watch?v=40wbNGVR3Xw)
 - 📹 [**DIY Low-Cost Ion Exchange Membrane: Full Build Guide & Open Source Dedication**](https://www.youtube.com/watch?v=c3tNXDlgE2M)
 - 📹 [**How to build your own electrolysis cells for cheap**](https://www.youtube.com/watch?v=vx_uQVsYAuo)
-- 📹 [**Weekly Q&A about salt electro mining and ion exchange membrane projects**](https://www.youtube.com/@Rowow/videos)
+- 📹 [**Weekly Q&A about salt electro mining and ion exchange membrane projects**](https://www.youtube.com/watch?v=-6g77eY3bTg&list=PLJf6BEaK_ZAELmS1solVr-t8I7BjS-M7n)
 
 For the full manufacturing process, refer to `Ionic-Film-Manufacturing-Process-Flowchart.docx` and `Rowow-LLC-Technical-Volume.pdf` in this repository.
 
