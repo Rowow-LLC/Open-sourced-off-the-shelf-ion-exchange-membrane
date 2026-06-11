@@ -1,0 +1,74 @@
+name: Build Report
+description: You made the membrane (or tried to). Tell us what happened, success or failure.
+title: "[Build] "
+labels: ["build-report"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for replicating the membrane. Every report, including failures, gets reviewed and verified builds are added to the public BUILDS.md log.
+  - type: dropdown
+    id: outcome
+    attributes:
+      label: Outcome
+      options:
+        - Working membrane, tested in a cell
+        - Working membrane, not yet tested in a cell
+        - Partial success (film formed but with problems)
+        - Failed (describe below)
+    validations:
+      required: true
+  - type: dropdown
+    id: membrane-type
+    attributes:
+      label: Membrane type
+      options:
+        - Cation exchange
+        - Anion exchange
+        - Both
+        - Other / mixed
+    validations:
+      required: true
+  - type: textarea
+    id: materials
+    attributes:
+      label: Materials used
+      description: Resin brand/type, binder (PVC or CPVC), solvent, any additives.
+      placeholder: "Example: generic water softener cation resin, PVC from pipe cement, THF, no additives"
+    validations:
+      required: true
+  - type: textarea
+    id: process
+    attributes:
+      label: Process summary
+      description: Pulverizing method, mix ratio, application method, drying time and conditions.
+    validations:
+      required: true
+  - type: textarea
+    id: results
+    attributes:
+      label: Results and measurements
+      description: Anything you measured. Thickness, resistance, selectivity behavior, durability, visual quality. Numbers welcome but not required.
+    validations:
+      required: false
+  - type: input
+    id: location
+    attributes:
+      label: Country or region (optional)
+      description: Used only to show the geographic spread of replications.
+    validations:
+      required: false
+  - type: textarea
+    id: media
+    attributes:
+      label: Photos or video links (optional)
+      description: Drag and drop images here, or paste links.
+    validations:
+      required: false
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: Public listing
+      options:
+        - label: You may list this build in BUILDS.md (username and country only)
+          required: false

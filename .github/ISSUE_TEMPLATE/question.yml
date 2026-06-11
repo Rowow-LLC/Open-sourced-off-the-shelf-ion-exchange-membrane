@@ -1,0 +1,22 @@
+name: Question
+description: Ask about the membrane, the recipe, or how to use it in a cell.
+title: "[Question] "
+labels: ["question"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Check the FAQ on the docs site and the YouTube build guides first. For faster back-and-forth, the Discord community is active: https://discord.gg/e7CmU2ekky
+  - type: textarea
+    id: question
+    attributes:
+      label: Your question
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: What are you trying to build or do? (optional)
+      description: Application context helps us give a useful answer (flow battery, metal recovery, water treatment, education, etc.)
+    validations:
+      required: false

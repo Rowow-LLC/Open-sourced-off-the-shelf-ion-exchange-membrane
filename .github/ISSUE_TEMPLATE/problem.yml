@@ -1,0 +1,30 @@
+name: Problem or Improvement
+description: Something in the docs is wrong or unclear, or you have a process improvement to propose.
+title: "[Issue] "
+labels: ["improvement"]
+body:
+  - type: dropdown
+    id: type
+    attributes:
+      label: Type
+      options:
+        - Documentation error or unclear instruction
+        - Process improvement proposal
+        - Safety concern
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: For improvements, describe what you changed and what you observed compared to the baseline recipe.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidence (optional)
+      description: Measurements, photos, side-by-side comparisons.
+    validations:
+      required: false
