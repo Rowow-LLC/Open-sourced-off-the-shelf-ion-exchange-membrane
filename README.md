@@ -45,17 +45,23 @@ The United States currently has very limited domestic capacity for critical mine
 | File | Description |
 |------|-------------|
 | `Ion-Exchange-Membrane-Diagram.pdf` | Visual diagram of the membrane structure and ion transport mechanism |
+| `Ion-Exchange-Membrane-Diagram.txt` | Plain-text version of the membrane diagram description |
 | `Ionic-Film-Manufacturing-Process-Flowchart.docx` | Step-by-step manufacturing process flow chart |
+| `Ionic-Film-Manufacturing-Process-Flowchart.txt` | Plain-text version of the manufacturing process flowchart |
 | `Patent.pdf` | Full patent filing for the membrane technology (PDF) |
+| `Patent.txt` | Plain-text version of the patent |
 | `Patent-Application.docx` | Editable patent application document |
-| `Rowow-LLC-Technical-Volume.pdf` | Complete technical volume with formulations, procedures, and results |
-| `SEM TECH.pdf` | Scanning Electron Microscopy (SEM) analysis and technical overview |
-| `SEM-Tech-Presentation.pdf` | Technical presentation on SEM characterization methods and findings |h
+| `docs/` | Documentation site (build guide, safety, FAQ) published via GitHub Pages |
+| `data/` | Community membrane characterization dataset and measurement protocol |
+| `BUILDS.md` | Public log of independent community replications |
+| `CONTRIBUTING.md` | How to contribute builds, data, and improvements |
 | `LICENSE` | CC0-1.0 Universal Public Domain Dedication — fully open source |
 
 ---
 
 ## How to Build the Membrane
+
+The fastest way to get started is the **[Build Guide](docs/build-guide.md)**, with full materials, process, and tuning notes. Read the **[Safety guide](docs/safety.md)** before working with solvents or resin dust.
 
 Full step-by-step video guides are available on the [Rowow YouTube channel](https://www.youtube.com/@Rowow):
 
@@ -64,11 +70,11 @@ Full step-by-step video guides are available on the [Rowow YouTube channel](http
 - 📹 [**How to build your own electrolysis cells for cheap**](https://www.youtube.com/watch?v=vx_uQVsYAuo)
 - 📹 [**Weekly Q&A about salt electro mining and ion exchange membrane projects**](https://www.youtube.com/watch?v=-6g77eY3bTg&list=PLJf6BEaK_ZAELmS1solVr-t8I7BjS-M7n)
 
-For the full manufacturing process, refer to `Ionic-Film-Manufacturing-Process-Flowchart.docx` and `Rowow-LLC-Technical-Volume.pdf` in this repository.
+For the full manufacturing process, refer to the **[Build Guide](docs/build-guide.md)** and `Ionic-Film-Manufacturing-Process-Flowchart.docx` in this repository.
 
 ### Materials Overview
 
-All precursors are off-the-shelf and commercially available. Refer to `Rowow-LLC-Technical-Volume.pdf` for exact formulations, concentrations, and sourcing guidance. No specialized suppliers or industrial equipment are required to replicate this membrane.
+All precursors are off-the-shelf and commercially available. Refer to the **[Build Guide](docs/build-guide.md)** and the patent files for exact formulations, concentrations, and sourcing guidance. No specialized suppliers or industrial equipment are required to replicate this membrane.
 
 ---
 
@@ -91,10 +97,11 @@ This is open-source research conducted by a small, independent team based in Flo
 
 - ❤️ **[Become a Patron on Patreon](https://www.patreon.com/cw/rowow)** — get exclusive updates, behind-the-scenes content, and early research previews
 - 💛 **[Support on GoFundMe](https://www.gofundme.com/f/SEMTECH)** — every contribution helps fund equipment, testing, and open-source documentation
-- **[Sponsor on GitHub](https://github.com/sponsors/Rowow1)** - zero-fee recurring support, tiers from $5
-- **[Buy a coffee on Ko-fi](https://ko-fi.com/rowow)** - one-time or monthly, goes straight to lab consumables
-- **[Back us on Open Collective](https://opencollective.com/semtech)** - fully transparent budget, see exactly how funds are spent
-- 💬 **[Join our Discord](https://discord.gg/e7CmU2ekky)** — connect with the community, ask questions, and share builds- ⭐ **Star this repository** to help others discover it
+- **[Sponsor on GitHub](https://github.com/sponsors/Rowow1)** — zero-fee recurring support, tiers from $5
+- **[Buy a coffee on Ko-fi](https://ko-fi.com/rowow)** — one-time or monthly, goes straight to lab consumables
+- **[Back us on Open Collective](https://opencollective.com/semtech)** — fully transparent budget, see exactly how funds are spent
+- 💬 **[Join our Discord](https://discord.gg/e7CmU2ekky)** — connect with the community, ask questions, and share builds
+- ⭐ **Star this repository** to help others discover it
 - 🍴 **Fork and build** — share your results with the community
 
 ---
@@ -120,4 +127,5 @@ This work is dedicated to the public domain under the [CC0 1.0 Universal](LICENS
 | 🌐 Website | [rowow.net](https://rowow.net) |
 | ▶️ YouTube | [@Rowow](https://www.youtube.com/@Rowow) |
 | 🐙 GitHub | [Rowow1](https://github.com/Rowow1) |
-| ❤️ Patreon | [patreon.com/cw/rowow](https://www.patreon.com/cw/rowow) || 💬 Discord | [discord.gg/e7CmU2ekky](https://discord.gg/e7CmU2ekky) |
+| ❤️ Patreon | [patreon.com/cw/rowow](https://www.patreon.com/cw/rowow) |
+| 💬 Discord | [discord.gg/e7CmU2ekky](https://discord.gg/e7CmU2ekky) |
