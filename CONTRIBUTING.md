@@ -1,85 +1,39 @@
 # Contributing to the Open-Source Ion Exchange Membrane Project
 
-Thank you for your interest in contributing! This is a community-driven open-source project by [Rowow LLC](https://rowow.net), and we welcome builders, researchers, electrochemists, makers, and curious minds from all backgrounds.
-
----
-
-> 💬 **New to the project? Join our [Discord community](https://discord.gg/e7CmU2ekky)** to introduce yourself, ask questions, and connect with other builders!
+Thank you for your interest in this project. Everything here is dedicated to the public domain under CC0 1.0, and community builds, test data, and improvements are what move it forward.
 
 ## Ways to Contribute
 
-### 🔬 Share Your Build Results
-Did you build this membrane? We'd love to hear about it! Open an issue with the label **"Build Report"** and include:
-- Your material sources and any substitutions you madeh
-- Photos or videos of your membrane and setup
-- Performance observations (conductivity, selectivity, durability)
-- Any problems you encountered and how you solved them
+### 1. Report a Build (most valuable)
+If you made the membrane, we want to hear about it whether it worked or not. Open a [Build Report issue](../../issues/new?template=build-report.yml) with your materials, process, and results. Verified builds are added to [BUILDS.md](BUILDS.md), the public replication log.
 
-### 💡 Suggest Improvements
-Have an idea to make the membrane cheaper, easier to build, or more effective? Open an issue with the label **"Improvement Idea"** and describe:
-- The problem you're trying to solve
-- Your proposed change or experiment
-- Any data or references that support it
+### 2. Submit Characterization Data
+Measured something? Ion exchange capacity, resistance, selectivity, durability, anything. Add a row to `data/membrane_characterization.csv` via pull request, or attach your numbers to a Build Report issue and we will enter them. See [data/README.md](data/README.md) for the measurement protocol and column definitions.
 
-### 📖 Improve Documentation
-See something unclear in the technical documents or README? Open a pull request or issue with:
-- The specific section that needs improvement
-- Your suggested correction or clarification
-- Any supporting references
+### 3. Improve the Process
+Found a better resin, solvent ratio, drying method, or application technique? Open an issue describing what you changed and what you observed. Side-by-side comparisons with the baseline recipe are especially useful.
 
-### 🧪 Share Experimental Data
-If you've run tests on this membrane (SEM imaging, conductivity measurements, ion selectivity tests, etc.), please share:
-- Your methodology
-- Raw data files (CSV, images, etc.)
-- Your interpretation and conclusions
+### 4. Improve Documentation
+Typos, unclear steps, translations, better diagrams: open an issue or a pull request.
 
-### 🐛 Report Problems
-Found an error in the technical documentation, patent, or process? Open an issue with the label **"Error/Correction"** and describe:
-- The file and section where the error appears
-- What the error is
-- What the correct information should be
+### 5. Ask Questions
+Use the [Question template](../../issues/new?template=question.yml) or join the [Discord](https://discord.gg/e7CmU2ekky). Check the FAQ on the docs site first.
 
----
+## Pull Request Guidelines
 
-## Opening an Issue
+- One topic per PR.
+- For data PRs: add rows to the CSV, never modify or delete existing rows. Include units exactly as the column headers specify.
+- For document changes: explain the reasoning in the PR description.
+- By submitting, you agree your contribution is released under CC0 1.0, the same as the rest of the project.
 
-1. Go to the [Issues tab](https://github.com/Rowow1/Open-sourced-off-the-shelf-ion-exchange-membrane/issues)
-2. Click **New issue**
-3. Add a clear, descriptive title
-4. Fill in as much detail as possible
-5. Add relevant labels (Build Report, Improvement Idea, Error/Correction, Question)
-6. Submit
+## Reporting Results Honestly
 
----
+Negative results are contributions. A membrane that cracked, leaked, or showed poor selectivity teaches the community as much as a success. Report what actually happened.
 
-## Opening a Pull Request
+## Safety
 
-1. Fork this repository
-2. Create a new branch: `git checkout -b your-contribution-name`
-3. Make your changes
-4. Commit with a clear message: `git commit -m "Add: description of change"`
-5. Push to your fork: `git push origin your-contribution-name`
-6. Open a Pull Request against the `main` branch
-7. Describe what you changed and why
+This project involves solvents (THF, MEK, cyclohexanone), fine resin dust, and electrochemical cells that can generate chlorine and hydrogen gas. Read the safety video and documentation before building anything. Work ventilated, wear PPE, and follow your local regulations. Nothing in this repository is a substitute for chemical safety training.
 
----
+## Licensing
 
-## Community Guidelines
-
-- Be respectful and constructive — we're all here to learn and build
-- Share openly — this project exists because of open knowledge sharing
-- Credit sources — if you reference papers, videos, or prior work, please link them
-- Ask questions freely — no question is too basic
-
----
-
-## Stay Connected
-
-- 🌐 Website: [rowow.net](https://rowow.net)
-- ▶️ YouTube: [@Rowow](https://www.youtube.com/@Rowow) — regular build updates and tutorials
-- ❤️ Patreon: [patreon.com/cw/rowow](https://www.patreon.com/cw/rowow)
-- 🐙 GitHub: [Rowow1](https://github.com/Rowow1)
-
----
-
-*This project is dedicated to the public domain under CC0-1.0. All contributions you make to this repository will also be released under CC0.*
+CC0 1.0 Universal. No rights reserved. You can use, modify, and commercialize freely. Contributions are accepted under the same dedication.
