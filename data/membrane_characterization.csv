@@ -1,0 +1,2 @@
+sample_id,date,builder,membrane_type,resin_product,resin_fraction_vol_pct,binder,solvent,additives,thickness_mm,wet_or_dry_measured,area_resistance_ohm_cm2,ionic_conductivity_mS_cm,iec_meq_g,permselectivity_pct,water_uptake_pct,linear_swelling_pct,test_solution,test_temp_C,exposure_duration_h,mechanical_notes,visual_notes,data_source
+EXAMPLE-001,2026-06-10,Rowow1,cation,water softener strong acid cation resin,50,PVC,THF,none,,,,,,,,,0.5 M NaCl,25,,flexible and watertight,uniform film,placeholder row - replace with first measured dataset
