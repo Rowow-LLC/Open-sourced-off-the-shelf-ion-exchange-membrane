@@ -27,4 +27,4 @@ Commercial ion exchange resin beads are already functionalized. The trick is mec
 - Made one? [Report your build](https://github.com/Rowow1/Open-sourced-off-the-shelf-ion-exchange-membrane/issues/new?template=build-report.yml)
 - Measured one? [Add your data](https://github.com/Rowow1/Open-sourced-off-the-shelf-ion-exchange-membrane/blob/main/data/README.md)
 - Questions? [Discord](https://discord.gg/e7CmU2ekky) or [YouTube](https://www.youtube.com/@Rowow)
-- Support the work: [Patreon](https://www.patreon.com/cw/rowow) or [GoFundMe](https://www.gofundme.com/f/SEMTECH)
+- Support the work: [Patreon](https://www.patreon.com/c/rowow) or [GoFundMe](https://www.gofundme.com/f/SEMTECH)
