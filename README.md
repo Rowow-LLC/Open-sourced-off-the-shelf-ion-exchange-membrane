@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/Rowow1/Open-sourced-off-the-shelf-ion-exchange-membrane?style=social)](https://github.com/Rowow1/Open-sourced-off-the-shelf-ion-exchange-membrane/stargazers)
 [![Forks](https://img.shields.io/github/forks/Rowow1/Open-sourced-off-the-shelf-ion-exchange-membrane?style=social)](https://github.com/Rowow1/Open-sourced-off-the-shelf-ion-exchange-membrane/network/members)
 
-**[🌐 rowow.net](https://rowow.net) · [▶️ YouTube](https://www.youtube.com/@Rowow) · [❤️ Patreon](https://www.patreon.com/cw/rowow) · [💛 GoFundMe](https://www.gofundme.com/f/SEMTECH) · [💬 Discord](https://discord.gg/e7CmU2ekky)**
+**[🌐 rowow.net](https://rowow.net) · [▶️ YouTube](https://www.youtube.com/@Rowow) · [❤️ Patreon](https://www.patreon.com/c/rowow) · [💛 GoFundMe](https://www.gofundme.com/f/SEMTECH) · [💬 Discord](https://discord.gg/e7CmU2ekky)**
 
 ---
 
@@ -95,7 +95,7 @@ Learn more at **[rowow.net](https://rowow.net)**.
 
 This is open-source research conducted by a small, independent team based in Florida, USA. If this work is useful to you, please consider supporting continued development:
 
-- ❤️ **[Become a Patron on Patreon](https://www.patreon.com/cw/rowow)** — get exclusive updates, behind-the-scenes content, and early research previews
+- ❤️ **[Become a Patron on Patreon](https://www.patreon.com/c/rowow)** — get exclusive updates, behind-the-scenes content, and early research previews
 - 💛 **[Support on GoFundMe](https://www.gofundme.com/f/SEMTECH)** — every contribution helps fund equipment, testing, and open-source documentation
 - **[Sponsor on GitHub](https://github.com/sponsors/Rowow1)** — zero-fee recurring support, tiers from $5
 - **[Buy a coffee on Ko-fi](https://ko-fi.com/rowow)** — one-time or monthly, goes straight to lab consumables
@@ -127,5 +127,5 @@ This work is dedicated to the public domain under the [CC0 1.0 Universal](LICENS
 | 🌐 Website | [rowow.net](https://rowow.net) |
 | ▶️ YouTube | [@Rowow](https://www.youtube.com/@Rowow) |
 | 🐙 GitHub | [Rowow1](https://github.com/Rowow1) |
-| ❤️ Patreon | [patreon.com/cw/rowow](https://www.patreon.com/cw/rowow) |
+| ❤️ Patreon | [patreon.com/c/rowow](https://www.patreon.com/c/rowow) |
 | 💬 Discord | [discord.gg/e7CmU2ekky](https://discord.gg/e7CmU2ekky) |
