@@ -40,7 +40,7 @@ The components are accessible and the system scales down, but this is not casual
 ## Contributing
 
 **I built one. What now?**
-[Report your build](https://github.com/Rowow1/Open-sourced-off-the-shelf-ion-exchange-membrane/issues/new?template=build-report.yml). Working or not, the data helps.
+[Report your build](https://github.com/Rowow-LLC/Open-sourced-off-the-shelf-ion-exchange-membrane/issues/new?template=build-report.yml). Working or not, the data helps.
 
 **Can I use this commercially?**
 Yes. CC0 means no rights reserved, no permission needed, commercial use included.
