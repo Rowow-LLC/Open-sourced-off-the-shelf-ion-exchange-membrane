@@ -33,4 +33,4 @@ Video walkthroughs:
 
 ## Full Documentation
 
-The complete patent text, process flowchart, and technical volume are in the [repository](https://github.com/Rowow1/Open-sourced-off-the-shelf-ion-exchange-membrane). The patent is dedicated CC0, so every detail is public.
+The complete patent text, process flowchart, and technical volume are in the [repository](https://github.com/Rowow-LLC/Open-sourced-off-the-shelf-ion-exchange-membrane). The patent is dedicated CC0, so every detail is public.
