@@ -9,8 +9,8 @@ Developed by [Rowow LLC](https://rowow.net) as part of SEM TECH, an open-source 
 - [Build Guide](build-guide.html): the recipe and process
 - [Safety](safety.html): read before building anything
 - [FAQ](faq.html): common questions
-- [Characterization Data](https://github.com/Rowow1/Open-sourced-off-the-shelf-ion-exchange-membrane/blob/main/data/membrane_characterization.csv): community measurements
-- [Community Builds](https://github.com/Rowow1/Open-sourced-off-the-shelf-ion-exchange-membrane/blob/main/BUILDS.md): who has replicated it
+- [Characterization Data](https://github.com/Rowow-LLC/Open-sourced-off-the-shelf-ion-exchange-membrane/blob/main/data/membrane_characterization.csv): community measurements
+- [Community Builds](https://github.com/Rowow-LLC/Open-sourced-off-the-shelf-ion-exchange-membrane/blob/main/BUILDS.md): who has replicated it
 
 ## Why It Matters
 
@@ -24,7 +24,7 @@ Commercial ion exchange resin beads are already functionalized. The trick is mec
 
 ## Get Involved
 
-- Made one? [Report your build](https://github.com/Rowow1/Open-sourced-off-the-shelf-ion-exchange-membrane/issues/new?template=build-report.yml)
-- Measured one? [Add your data](https://github.com/Rowow1/Open-sourced-off-the-shelf-ion-exchange-membrane/blob/main/data/README.md)
+- Made one? [Report your build](https://github.com/Rowow-LLC/Open-sourced-off-the-shelf-ion-exchange-membrane/issues/new?template=build-report.yml)
+- Measured one? [Add your data](https://github.com/Rowow-LLC/Open-sourced-off-the-shelf-ion-exchange-membrane/blob/main/data/README.md)
 - Questions? [Discord](https://discord.gg/e7CmU2ekky) or [YouTube](https://www.youtube.com/@Rowow)
 - Support the work: [Patreon](https://www.patreon.com/c/rowow) or [GoFundMe](https://www.gofundme.com/f/SEMTECH)
