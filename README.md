@@ -3,8 +3,8 @@
 > **Low-Cost Homogeneous Ion Exchange Membrane Formed from Off-the-Shelf Precursors and Manufacturing Process Thereof**
 
 [![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
-[![Stars](https://img.shields.io/github/stars/Rowow1/Open-sourced-off-the-shelf-ion-exchange-membrane?style=social)](https://github.com/Rowow1/Open-sourced-off-the-shelf-ion-exchange-membrane/stargazers)
-[![Forks](https://img.shields.io/github/forks/Rowow1/Open-sourced-off-the-shelf-ion-exchange-membrane?style=social)](https://github.com/Rowow1/Open-sourced-off-the-shelf-ion-exchange-membrane/network/members)
+[![Stars](https://img.shields.io/github/stars/Rowow-LLC/Open-sourced-off-the-shelf-ion-exchange-membrane?style=social)](https://github.com/Rowow-LLC/Open-sourced-off-the-shelf-ion-exchange-membrane/stargazers)
+[![Forks](https://img.shields.io/github/forks/Rowow-LLC/Open-sourced-off-the-shelf-ion-exchange-membrane?style=social)](https://github.com/Rowow-LLC/Open-sourced-off-the-shelf-ion-exchange-membrane/network/members)
 
 **[🌐 rowow.net](https://rowow.net) · [▶️ YouTube](https://www.youtube.com/@Rowow) · [❤️ Patreon](https://www.patreon.com/c/rowow) · [💛 GoFundMe](https://www.gofundme.com/f/SEMTECH) · [💬 Discord](https://discord.gg/e7CmU2ekky)**
 
@@ -126,6 +126,6 @@ This work is dedicated to the public domain under the [CC0 1.0 Universal](LICENS
 |---|---|
 | 🌐 Website | [rowow.net](https://rowow.net) |
 | ▶️ YouTube | [@Rowow](https://www.youtube.com/@Rowow) |
-| 🐙 GitHub | [Rowow1](https://github.com/Rowow1) |
+| 🐙 GitHub | [Rowow-LLC](https://github.com/Rowow-LLC) |
 | ❤️ Patreon | [patreon.com/c/rowow](https://www.patreon.com/c/rowow) |
 | 💬 Discord | [discord.gg/e7CmU2ekky](https://discord.gg/e7CmU2ekky) |
