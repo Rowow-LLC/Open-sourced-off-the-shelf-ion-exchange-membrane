@@ -28,7 +28,7 @@ Video walkthroughs:
 
 - Resin type sets what the membrane passes: cation resin passes cations, anion resin passes anions, specialty resins bias selectivity toward targets like rare earths or platinum group metals.
 - Resin loading trades conductivity against strength.
-- Thickness is set by your application method. Thin sprayed films can come in under $1 per square yard.
+- Thickness is set by your application method. Thin sprayed films can come in under $1 per square foot.
 - The membrane solvent-welds to PVC and CPVC cell bodies with standard pipe cement, which makes sealed cell assembly trivial.
 
 ## Full Documentation
