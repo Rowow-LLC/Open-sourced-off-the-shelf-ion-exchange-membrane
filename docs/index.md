@@ -1,6 +1,6 @@
 # Open-Source Ion Exchange Membrane
 
-A homogeneous cation or anion exchange membrane you can make for under $1 per square foot using off-the-shelf materials: water softener resin, PVC or CPVC, and common solvents. No sulfonation, no specialty suppliers, no industrial equipment. Dedicated to the public domain under CC0 1.0.
+A homogeneous cation or anion exchange membrane you can make for under $1 per square foot using off-the-shelf materials: water softener resin, PVC or CPVC, and common solvents. No sulfonation, no specialty suppliers, no industrial equipment. Released under CERN-OHL-S 2.0, a strong reciprocal open hardware license.
 
 Developed by [Rowow LLC](https://rowow.net) as part of SEM TECH, an open-source electrochemical platform for critical mineral recovery, acid regeneration, and metal refining.
 
