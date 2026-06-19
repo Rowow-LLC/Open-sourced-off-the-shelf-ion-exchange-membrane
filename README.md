@@ -2,7 +2,7 @@
 
 > **Low-Cost Homogeneous Ion Exchange Membrane Formed from Off-the-Shelf Precursors and Manufacturing Process Thereof**
 
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![License: CERN-OHL-S-2.0](https://img.shields.io/badge/License-CERN--OHL--S--2.0-blue.svg)](https://ohwr.org/cern_ohl_s_v2.txt)
 [![Stars](https://img.shields.io/github/stars/Rowow-LLC/Open-sourced-off-the-shelf-ion-exchange-membrane?style=social)](https://github.com/Rowow-LLC/Open-sourced-off-the-shelf-ion-exchange-membrane/stargazers)
 [![Forks](https://img.shields.io/github/forks/Rowow-LLC/Open-sourced-off-the-shelf-ion-exchange-membrane?style=social)](https://github.com/Rowow-LLC/Open-sourced-off-the-shelf-ion-exchange-membrane/network/members)
 
@@ -55,7 +55,7 @@ The United States currently has very limited domestic capacity for critical mine
 | `data/` | Community membrane characterization dataset and measurement protocol |
 | `BUILDS.md` | Public log of independent community replications |
 | `CONTRIBUTING.md` | How to contribute builds, data, and improvements |
-| `LICENSE` | CC0-1.0 Universal Public Domain Dedication — fully open source |
+| `LICENSE` | CERN-OHL-S v2, the CERN Open Hardware Licence (Strongly Reciprocal), open source with share-alike |
 
 ---
 
@@ -97,7 +97,7 @@ This is open-source research conducted by a small, independent team based in Flo
 
 - ❤️ **[Become a Patron on Patreon](https://www.patreon.com/c/rowow)** — get exclusive updates, behind-the-scenes content, and early research previews
 - 💛 **[Support on GoFundMe](https://www.gofundme.com/f/SEMTECH)** — every contribution helps fund equipment, testing, and open-source documentation
-- **[Sponsor on GitHub](https://github.com/sponsors/Rowow1)** — zero-fee recurring support, tiers from $5
+- **[Sponsor on GitHub](https://github.com/sponsors/Rowow-LLC)** — zero-fee recurring support, tiers from $5
 - **[Buy a coffee on Ko-fi](https://ko-fi.com/rowow)** — one-time or monthly, goes straight to lab consumables
 - **[Back us on Open Collective](https://opencollective.com/semtech)** — fully transparent budget, see exactly how funds are spent
 - 💬 **[Join our Discord](https://discord.gg/e7CmU2ekky)** — connect with the community, ask questions, and share builds
@@ -114,7 +114,7 @@ We welcome contributions from the community! See [CONTRIBUTING.md](CONTRIBUTING.
 
 ## License
 
-This work is dedicated to the public domain under the [CC0 1.0 Universal](LICENSE) license. You are free to copy, modify, distribute, and perform the work — even for commercial purposes — without asking permission.
+This work is released under the [CERN-OHL-S v2](LICENSE) license, the CERN Open Hardware Licence (Strongly Reciprocal). You are free to use, make, sell, and improve it, including for commercial purposes, as long as you pass on the full design source of anything you build under the same license. The license also includes a royalty-free patent grant for the covered design, covering our membrane patent.
 
 ---
 
