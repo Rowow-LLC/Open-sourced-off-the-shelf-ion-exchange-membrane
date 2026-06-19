@@ -1,6 +1,6 @@
 # Contributing to the Open-Source Ion Exchange Membrane Project
 
-Thank you for your interest in this project. Everything here is dedicated to the public domain under CC0 1.0, and community builds, test data, and improvements are what move it forward.
+Thank you for your interest in this project. Everything here is released under CERN-OHL-S, and community builds, test data, and improvements are what move it forward.
 
 ## Ways to Contribute
 
@@ -24,7 +24,7 @@ Use the [Question template](../../issues/new?template=question.yml) or join the 
 - One topic per PR.
 - For data PRs: add rows to the CSV, never modify or delete existing rows. Include units exactly as the column headers specify.
 - For document changes: explain the reasoning in the PR description.
-- By submitting, you agree your contribution is released under CC0 1.0, the same as the rest of the project.
+- By submitting, you agree your contribution is released under CERN-OHL-S, the same as the rest of the project.
 
 ## Reporting Results Honestly
 
@@ -36,4 +36,4 @@ This project involves solvents (THF, MEK, cyclohexanone), fine resin dust, and e
 
 ## Licensing
 
-CC0 1.0 Universal. No rights reserved. You can use, modify, and commercialize freely. Contributions are accepted under the same dedication.
+CERN-OHL-S v2, the CERN Open Hardware Licence (Strongly Reciprocal). You can use, make, sell, and improve the work, including commercially, as long as you pass on your complete design source under the same license. Contributions are accepted under the same license.
