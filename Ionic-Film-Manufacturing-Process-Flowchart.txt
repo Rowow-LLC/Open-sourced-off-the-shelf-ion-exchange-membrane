@@ -102,14 +102,14 @@ YouTube @Rowow:
 
 Website:   https://rowow.net
 Discord:   https://discord.gg/e7CmU2ekky
-GitHub:    https://github.com/Rowow1
+GitHub:    https://github.com/Rowow-LLC
 
 ================================================================================
 LICENSE
 ================================================================================
 
-CC0 1.0 Universal — Public Domain Dedication
-Free to use, copy, modify, distribute without restriction.
+CERN-OHL-S v2 (CERN Open Hardware Licence Version 2, Strongly Reciprocal)
+Free to use, study, modify, make, and sell, including for commercial purposes. If you distribute a product or a modified design, you must release your complete design source under the same license so improvements stay open. Carries a royalty-free patent grant (Section 7) covering the membrane patent.
 See LICENSE file for full terms.
 
 Rowow LLC — Florida, USA — https://rowow.net
