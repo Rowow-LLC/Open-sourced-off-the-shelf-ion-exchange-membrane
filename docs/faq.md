@@ -43,4 +43,4 @@ The components are accessible and the system scales down, but this is not casual
 [Report your build](https://github.com/Rowow-LLC/Open-sourced-off-the-shelf-ion-exchange-membrane/issues/new?template=build-report.yml). Working or not, the data helps.
 
 **Can I use this commercially?**
-Yes. CC0 means no rights reserved, no permission needed, commercial use included.
+Yes. CERN-OHL-S means no rights reserved, no permission needed, commercial use included.
