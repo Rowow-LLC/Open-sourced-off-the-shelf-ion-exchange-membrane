@@ -5,7 +5,6 @@ Read the [Safety page](safety.html) first. THF and MEK are flammable and harmful
 Video walkthroughs:
 
 - [How to make a cation exchange membrane in under 2 minutes](https://www.youtube.com/watch?v=40wbNGVR3Xw)
-- [Full build guide and open source dedication](https://www.youtube.com/watch?v=c3tNXDlgE2M)
 
 ## Materials
 
