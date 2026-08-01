@@ -66,7 +66,6 @@ The fastest way to get started is the **[Build Guide](docs/build-guide.md)**, wi
 Full step-by-step video guides are available on the [Rowow YouTube channel](https://www.youtube.com/@Rowow):
 
 - 📹 [**How to make CATION exchange membrane CHEAP AND EASY (less than 2 minutes)**](https://www.youtube.com/watch?v=40wbNGVR3Xw)
-- 📹 [**DIY Low-Cost Ion Exchange Membrane: Full Build Guide & Open Source Dedication**](https://www.youtube.com/watch?v=c3tNXDlgE2M)
 - 📹 [**How to build your own electrolysis cells for cheap**](https://www.youtube.com/watch?v=vx_uQVsYAuo)
 - 📹 [**Weekly Q&A about salt electro mining and ion exchange membrane projects**](https://www.youtube.com/watch?v=-6g77eY3bTg&list=PLJf6BEaK_ZAELmS1solVr-t8I7BjS-M7n)
 
