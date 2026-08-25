@@ -95,7 +95,7 @@ Learn more at **[rowow.net](https://rowow.net)**.
 This is open-source research conducted by a small, independent team based in Florida, USA. If this work is useful to you, please consider supporting continued development:
 
 - ❤️ **[Become a Patron on Patreon](https://www.patreon.com/c/rowow)** — get exclusive updates, behind-the-scenes content, and early research previews
-- 💛 **[Support on GoFundMe](https://www.gofundme.com/f/SEMTECH)** — every contribution helps fund equipment, testing, and open-source documentation
+- 💛 **[Support on GoFundMe](https://www.gofundme.com/f/rowow)** — every contribution helps fund equipment, testing, and open-source documentation
 - **[Sponsor on GitHub](https://github.com/sponsors/Rowow-LLC)** — zero-fee recurring support, tiers from $5
 - **[Buy a coffee on Ko-fi](https://ko-fi.com/rowow)** — one-time or monthly, goes straight to lab consumables
 - **[Back us on Open Collective](https://opencollective.com/semtech)** — fully transparent budget, see exactly how funds are spent
