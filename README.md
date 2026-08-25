@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/Rowow-LLC/Open-sourced-off-the-shelf-ion-exchange-membrane?style=social)](https://github.com/Rowow-LLC/Open-sourced-off-the-shelf-ion-exchange-membrane/stargazers)
 [![Forks](https://img.shields.io/github/forks/Rowow-LLC/Open-sourced-off-the-shelf-ion-exchange-membrane?style=social)](https://github.com/Rowow-LLC/Open-sourced-off-the-shelf-ion-exchange-membrane/network/members)
 
-**[🌐 rowow.net](https://rowow.net) · [▶️ YouTube](https://www.youtube.com/@Rowow) · [❤️ Patreon](https://www.patreon.com/c/rowow) · [💛 GoFundMe](https://www.gofundme.com/f/SEMTECH) · [💬 Discord](https://discord.gg/e7CmU2ekky)**
+**[🌐 rowow.net](https://rowow.net) · [▶️ YouTube](https://www.youtube.com/@Rowow) · [❤️ Patreon](https://www.patreon.com/c/rowow) · [💛 GoFundMe](https://www.gofundme.com/f/rowow) · [💬 Discord](https://discord.gg/e7CmU2ekky)**
 
 ---
 
