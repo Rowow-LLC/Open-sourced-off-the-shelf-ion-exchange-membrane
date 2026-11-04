@@ -4,7 +4,7 @@ Independent replications of the open-source ion exchange membrane. Every entry l
 
 **Verified independent replications: 3** (as of 2026-11-03)
 
-Three builders with no financial or employment tie to Rowow LLC fabricated the membrane from the published recipe on camera and then ran it in an electrolysis cell. In each case the cell behaved as a cation exchange membrane should: acid formed at the anode side and base at the cathode side of a salt solution.
+Three builders outside Rowow LLC fabricated the membrane from the published recipe on camera and then ran it in an electrolysis cell. In each case the cell behaved as a cation exchange membrane should: acid formed at the anode side and base at the cathode side of a salt solution.
 
 To get listed, open a [Build Report](../../issues/new?template=build-report.yml). Failed builds are listed too.
 
