@@ -10,13 +10,17 @@ Developed by [Rowow LLC](https://rowow.net) as part of SEM TECH, an open-source 
 - [Safety](safety.html): read before building anything
 - [FAQ](faq.html): common questions
 - [Characterization Data](https://github.com/Rowow-LLC/Open-sourced-off-the-shelf-ion-exchange-membrane/blob/main/data/membrane_characterization.csv): community measurements
-- [Community Builds](https://github.com/Rowow-LLC/Open-sourced-off-the-shelf-ion-exchange-membrane/blob/main/BUILDS.md): who has replicated it
+- [Community Builds](https://github.com/Rowow-LLC/Open-sourced-off-the-shelf-ion-exchange-membrane/blob/main/BUILDS.md): who has replicated it (3 verified)
 
 ## Why It Matters
 
 Commercial ion exchange membranes cost roughly $100 per sheet, which locks small labs, startups, and researchers out of membrane electrochemistry. This recipe drops that cost by about two orders of magnitude and works in harsh conditions: pH 0 solutions, high oxidizing potentials, months of exposure.
 
 Applications include precious metal and rare earth recovery, redox flow batteries, electrodialysis, acid and base generation, water treatment, and electroplating.
+
+## Independent Replications
+
+Three builders outside Rowow LLC have made the membrane from this recipe and run it in a cell on camera: [PushingButtons](https://www.youtube.com/watch?v=-_kMtNR8-Ck) (March 2026), [Neptunium](https://www.youtube.com/watch?v=ZRBlKU7zKr8) (May 2026) and [NightHawkInLight](https://www.youtube.com/watch?v=eq7fR9ISuCw) (June 2026, cation and anion). Each showed acid forming on one side of a salt cell and base on the other. Independent measurements of ion exchange capacity, resistance and permselectivity have not been published yet. Details are in the [build log](https://github.com/Rowow-LLC/Open-sourced-off-the-shelf-ion-exchange-membrane/blob/main/BUILDS.md) and the [replication records](https://github.com/Rowow-LLC/Open-sourced-off-the-shelf-ion-exchange-membrane/blob/main/data/replications.csv).
 
 ## How It Works
 

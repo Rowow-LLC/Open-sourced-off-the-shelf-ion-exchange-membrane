@@ -14,6 +14,9 @@ Testing in acidic and alkaline mining solutions at high oxidizing potential has 
 **Cation vs anion membrane?**
 A cation exchange membrane passes positive ions and blocks negative ones. An anion exchange membrane does the opposite. Cell designs use one or both to control where ions go.
 
+**Has anyone else made it?**
+Yes. PushingButtons (March 2026), Neptunium (May 2026) and NightHawkInLight (June 2026) each built the membrane from the published recipe and tested it in an electrolysis cell on video, with acid forming at the anode side and base at the cathode side. NightHawkInLight made anion membranes as well. Links, methods and timestamps are in the [build log](https://github.com/Rowow-LLC/Open-sourced-off-the-shelf-ion-exchange-membrane/blob/main/BUILDS.md). None of these builds measured ion exchange capacity, resistance or permselectivity, so independent numbers for those are still open.
+
 **Can I buy one instead of making it?**
 Yes, membranes and cells are available at [rowow.net](https://rowow.net) when in stock.
 

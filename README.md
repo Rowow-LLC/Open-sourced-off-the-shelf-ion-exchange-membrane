@@ -20,7 +20,7 @@ Ion exchange membranes are a critical component in electrochemical systems used 
 - Electroplating and electrorefining
 - Fuel cells and flow batteries
 
-Commercially available membranes (such as Nafion) can cost hundreds of dollars per square meter. **This open-source design dramatically lowers that barrier**, making advanced electrochemistry accessible to small labs, startups, researchers, and DIY builders worldwide.
+Commercially available perfluorinated membranes can cost hundreds of dollars per square meter. **This open-source design dramatically lowers that barrier**, making advanced electrochemistry accessible to small labs, startups, researchers, and DIY builders worldwide.
 
 This project is part of [Rowow LLC](https://rowow.net)'s mission to build a fully domestic, closed-loop electrochemical precious metal recovery industry — one that is eco-sustainable, competitive, and accessible.
 
@@ -40,6 +40,20 @@ The United States currently has very limited domestic capacity for critical mine
 
 ---
 
+## Independent Replications
+
+Three independent builders have made this membrane from the published recipe on camera and run it in an electrolysis cell, with acid forming on the anode side and base on the cathode side as a cation exchange membrane should behave:
+
+| Published | Builder | Evidence |
+|-----------|---------|----------|
+| 2026-03-22 | PushingButtons | [Replication and test video](https://www.youtube.com/watch?v=-_kMtNR8-Ck), plus follow-ups on a [3D printed test cell](https://www.youtube.com/watch?v=vHhBwo5S-PU) and [neodymium concentration](https://www.youtube.com/watch?v=TID-_3gld_k) |
+| 2026-05-09 | Neptunium | [Build and test video](https://www.youtube.com/watch?v=ZRBlKU7zKr8) |
+| 2026-06-03 | NightHawkInLight | [Build and applications video](https://www.youtube.com/watch?v=eq7fR9ISuCw), cation and anion membranes, covered by [Hackaday](https://hackaday.com/2026/06/05/using-electrolysis-for-more-than-just-generating-hydrogen/) |
+
+None of these builds published ion exchange capacity, area resistance, or permselectivity; those measurements are still open. Full details, method notes and video timestamps are in [BUILDS.md](BUILDS.md), and the same records are in [data/replications.csv](data/replications.csv). Built one yourself? [File a Build Report](../../issues/new?template=build-report.yml), including failures.
+
+---
+
 ## Repository Contents
 
 | File | Description |
@@ -52,8 +66,8 @@ The United States currently has very limited domestic capacity for critical mine
 | `Patent.txt` | Plain-text version of the patent |
 | `Patent-Application.docx` | Editable patent application document |
 | `docs/` | Documentation site (build guide, safety, FAQ) published via GitHub Pages |
-| `data/` | Community membrane characterization dataset and measurement protocol |
-| `BUILDS.md` | Public log of independent community replications |
+| `data/` | Community characterization dataset, replication records (`replications.csv`) and measurement protocol |
+| `BUILDS.md` | Public log of independent community replications (3 verified) |
 | `CONTRIBUTING.md` | How to contribute builds, data, and improvements |
 | `LICENSE` | CERN-OHL-S v2, the CERN Open Hardware Licence (Strongly Reciprocal), open source with share-alike |
 
@@ -112,7 +126,7 @@ We welcome contributions from the community! See [CONTRIBUTING.md](CONTRIBUTING.
 
 ## License
 
-This work is released under the [CERN-OHL-S v2](LICENSE) license, the CERN Open Hardware Licence (Strongly Reciprocal). You are free to use, make, sell, and improve it, including for commercial purposes, as long as you pass on the full design source of anything you build under the same license. The license also includes a royalty-free patent grant for the covered design, covering our membrane patent.
+This work is released under the [CERN-OHL-S v2](LICENSE) license, the CERN Open Hardware Licence (Strongly Reciprocal). You are free to use, make, sell, and improve it, including for commercial purposes, as long as you pass on the full design source of anything you build under the same license. The license also includes a royalty-free patent grant for the covered design, covering our membrane patent application.
 
 ---
 

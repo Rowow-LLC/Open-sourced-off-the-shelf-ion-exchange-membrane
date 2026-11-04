@@ -1,8 +1,26 @@
 # Membrane Characterization Data
 
-`membrane_characterization.csv` is the community dataset for the open-source ion exchange membrane. Anyone who builds the membrane and measures it can add a row by pull request, or attach numbers to a Build Report issue.
+`membrane_characterization.csv` is the community dataset of measured properties for the open-source ion exchange membrane. Anyone who builds the membrane and measures it can add a row by pull request, or attach numbers to a Build Report issue.
 
 The file currently contains a placeholder example row. It will be replaced as measured datasets come in, starting with Rowow's baseline membrane.
+
+## Replication Records
+
+`replications.csv` lists every independent build of the membrane that has public evidence, one row per build, plus follow-up experiments and written coverage. It is the machine-readable form of [BUILDS.md](../BUILDS.md).
+
+| Column | Definition |
+|---|---|
+| replication_id | R-nnn for a replication, F-nnn for a follow-up experiment, C-nnn for coverage |
+| record_type | replication, follow_up_of_R-nnn, or coverage_of_R-nnn |
+| status | verified_tested (built and run in a cell on camera or in data), verified_fabricated (built, no test shown), failed, pending, or coverage |
+| published_date | Date the builder published the evidence, YYYY-MM-DD |
+| builder, builder_channel_url | Who built it and where they publish |
+| membrane_type, resin, binder, substrate, cure | What was made and how, as the builder described it |
+| test_description, test_result | What test was shown and what it showed |
+| quantitative_data | Any measured numbers the builder published, or "none reported" |
+| evidence_url, evidence_timestamps | Where to see it, with video times where useful |
+| source_of_listing | Build Report issue, or the public video or article the entry was taken from |
+| date_verified, verified_by | When the evidence was last checked and by whom |
 
 ## Column Definitions and Units
 
