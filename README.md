@@ -126,7 +126,9 @@ We welcome contributions from the community! See [CONTRIBUTING.md](CONTRIBUTING.
 
 ## License
 
-This work is released under the [CERN-OHL-S v2](LICENSE) license, the CERN Open Hardware Licence (Strongly Reciprocal). You are free to use, make, sell, and improve it, including for commercial purposes, as long as you pass on the full design source of anything you build under the same license. The license also includes a royalty-free patent grant for the covered design, covering our membrane patent application.
+This work is released under the [CERN-OHL-S v2](LICENSE) license, the CERN Open Hardware Licence (Strongly Reciprocal). You are free to use, make, sell, and improve it, including for commercial purposes, as long as you pass on the full design source of anything you build under the same license.
+
+The membrane is also the subject of a pending United States patent application. Rowow LLC has proposed releasing it under a draft Open Technology Charter and a draft Patent Non-Assertion Pledge. Both are pending; neither has been adopted, and neither is in force yet.
 
 ---
 
