@@ -1,6 +1,6 @@
 # Open-Source Off-the-Shelf Ion Exchange Membrane
 
-> **Low-Cost Homogeneous Ion Exchange Membrane Formed from Off-the-Shelf Precursors and Manufacturing Process Thereof**
+> **Low-Cost Heterogeneous Ion Exchange Membrane Formed from Off-the-Shelf Precursors and Manufacturing Process Thereof** (title of the pending US patent application)
 
 [![License: CERN-OHL-S-2.0](https://img.shields.io/badge/License-CERN--OHL--S--2.0-blue.svg)](https://ohwr.org/cern_ohl_s_v2.txt)
 [![Stars](https://img.shields.io/github/stars/Rowow-LLC/Open-sourced-off-the-shelf-ion-exchange-membrane?style=social)](https://github.com/Rowow-LLC/Open-sourced-off-the-shelf-ion-exchange-membrane/stargazers)
@@ -12,7 +12,7 @@
 
 ## What Is This?
 
-This repository contains the **fully open-sourced design, process documentation, and patent** for a homogeneous ion exchange membrane that can be fabricated using inexpensive, off-the-shelf precursors — no specialized suppliers or industrial equipment required.
+This repository contains the **open-source design, process documentation, and filed patent application (pending, not granted)** for a heterogeneous ion exchange membrane that can be fabricated using inexpensive, off-the-shelf precursors. No specialized suppliers or industrial equipment are required.
 
 Ion exchange membranes are a critical component in electrochemical systems used for:
 - Precious and rare earth metal recovery
@@ -62,8 +62,8 @@ None of these builds published ion exchange capacity, area resistance, or permse
 | `Ion-Exchange-Membrane-Diagram.txt` | Plain-text version of the membrane diagram description |
 | `Ionic-Film-Manufacturing-Process-Flowchart.docx` | Step-by-step manufacturing process flow chart |
 | `Ionic-Film-Manufacturing-Process-Flowchart.txt` | Plain-text version of the manufacturing process flowchart |
-| `Patent.pdf` | Full patent filing for the membrane technology (PDF) |
-| `Patent.txt` | Plain-text version of the patent |
+| `Patent.pdf` | The membrane patent application as filed (PDF) |
+| `Patent.txt` | Plain-text version of the patent application |
 | `Patent-Application.docx` | Editable patent application document |
 | `docs/` | Documentation site (build guide, safety, FAQ) published via GitHub Pages |
 | `data/` | Community characterization dataset, replication records (`replications.csv`) and measurement protocol |
@@ -87,7 +87,7 @@ For the full manufacturing process, refer to the **[Build Guide](docs/build-guid
 
 ### Materials Overview
 
-All precursors are off-the-shelf and commercially available. Refer to the **[Build Guide](docs/build-guide.md)** and the patent files for exact formulations, concentrations, and sourcing guidance. No specialized suppliers or industrial equipment are required to replicate this membrane.
+All precursors are off-the-shelf and commercially available. Refer to the **[Build Guide](docs/build-guide.md)** and the patent application files for exact formulations, concentrations, and sourcing guidance. No specialized suppliers or industrial equipment are required to replicate this membrane.
 
 ---
 
